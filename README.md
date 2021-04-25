@@ -1,4 +1,12 @@
 # Payloads-and-wordlists
-List of payloads for BurpSuite intruder.
+List of payloads and files for Penetration testing.
+
+- XSS
+- XXE
+- LDAP
+- SQL
+- XPATH
+- SSTI
+- Insecure files
 
 Also directory fuzzing list in finnish for finnish web applications
