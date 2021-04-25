@@ -1,3 +1,5 @@
+Script to create EXIF / image metadata injection payload
+
 make_own_EXIF_injection.py script creates black image (out.jpg) in which you can enter your own arbitary EXIF data
 
 USAGE (Edit the script):
