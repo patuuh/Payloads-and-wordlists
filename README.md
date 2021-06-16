@@ -9,4 +9,7 @@ List of payloads and files for Penetration testing.
 - SSTI
 - Insecure files
 
-Also directory fuzzing list in finnish for finnish web applications
+Contains also:
+
+- Directory fuzzing list in finnish for finnish web applications
+- List of Salesforce objects for data extraction (https://www.enumerated.de/index/salesforce)
