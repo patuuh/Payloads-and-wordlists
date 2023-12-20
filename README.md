@@ -18,3 +18,6 @@ Contains also:
 - List of Salesforce objects for data extraction (https://www.enumerated.de/index/salesforce)
 - List of different MIME types
 - SecLists Naughty strings list
+
+Credits:
+- Contains payloads from all around internet. i.e payloads all the things, brutelogic etc.
