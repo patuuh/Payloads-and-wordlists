@@ -1,5 +1,6 @@
 home/000~ROOT~000
 home/000~ROOT~000/etc/passwd
+api/v1/serverInfo
 appsettings.json
 /////////////////../../../../../../../../etc/passwd
 _
