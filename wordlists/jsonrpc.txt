@@ -1,0 +1,414 @@
+{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0x0000000000000000000000000000000000000000","data":"0x"},"latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x","latest"],"id":"2"}
+{"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from":123,"to":"0x0000000000000000000000000000000000000000","value":"0x0"}],"id":3}
+{"jsonrpc":"2.0","method":"eth_blockNumber","params":{"unexpected_key":true},"id":4}
+{"jsonrpc":"2.0","method":"eth_getStorageAt","params":["0x295a70b2de5e3953354a6a8344e616ed314d7251","0xffffffffffffffffffff","latest"],"id":5}
+{"jsonrpc":"2.0","method":"eth_getTransactionCount","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","0x123456"],"id":6}
+{"jsonrpc":"2.0","method":"eth_sign","params":[null,"0xdeadbeef"],"id":7}
+{"jsonrpc":"2.0","method":"eth_sendRawTransaction","params":["0xdeadbeef"],"id":8}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"to":"0x0000000000000000000000000000000000000000","gas":-1}],"id":9}
+{"jsonrpc":"2.0","method":"eth_getBlockByHash","params":["0x0000000000000000000000000000000000000000000000000000000000000000",{"includeTx":1}],"id":10}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["finalized","true"],"id":11}
+{"jsonrpc":"2.0","method":"eth_getTransactionReceipt","params":[123456789],"id":12}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"earliest","toBlock":"pending","address":"0x","topics":[[],null]}],"id":13}
+{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0xdeadbeef","data":"0x1234"},"0x0"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0xinvalidAddress","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","earliest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1",123456],"id":1}
+{"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from":"0x","to":"0x","value":"0x0"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from":null,"to":"0xd46e8dd67c5d32be8058bb8eb970870f07244567"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_blockNumber","params":["extra_param"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getStorageAt","params":["0x295a70b2de5e3953354a6a8344e616ed314d7251",-1,"latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionCount","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1",true],"id":1}
+{"jsonrpc":"2.0","method":"eth_getCode","params":[true,"latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_sign","params":["0x9b2055d370f73ec7d8a03e965129118dc8f5bf83",12345],"id":1}
+{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":1}
+{"jsonrpc":"2.0","method":"net_version","params":[],"id":1}
+{"jsonrpc":"2.0","method":"net_listening","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_protocolVersion","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_syncing","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_coinbase","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_mining","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_hashrate","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_gasPrice","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_accounts","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getStorageAt","params":["0x0000000000000000000000000000000000000000","0x0","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionCount","params":["0x0000000000000000000000000000000000000000","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockTransactionCountByHash","params":["0x0000000000000000000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockTransactionCountByNumber","params":["0xe8"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getUncleCountByBlockHash","params":["0x0000000000000000000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getUncleCountByBlockNumber","params":["0xe8"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getCode","params":["0x0000000000000000000000000000000000000000","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_sign","params":["0x0000000000000000000000000000000000000000","0xdeadbeaf"],"id":1}
+{"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from":"0x0000000000000000000000000000000000000000","to":"0x0000000000000000000000000000000000000000","gas":"0x76c0","data":"0x1234"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_sendRawTransaction","params":["0x0000000000000000000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0x0000000000000000000000000000000000000000","data":"0x1234"},"latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"to":"0x0000000000000000000000000000000000000000","data":"0x1234"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockByHash","params":["0x0000000000000000000000000000000000000000",true],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0x1b4",true],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionByHash","params":["0x0000000000000000000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockHashAndIndex","params":["0x0000000000000000000000000000000000000000","0x0"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockNumberAndIndex","params":["0x29c","0x0"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionReceipt","params":["0x0000000000000000000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockHashAndIndex","params":["0x0000000000000000000000000000000000000000","0x0"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockNumberAndIndex","params":["0x29c","0x0"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getCompilers","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_compileSolidity","params":["contract C {}"],"id":1}
+{"jsonrpc":"2.0","method":"eth_compileLLL","params":["(return 0)"],"id":1}
+{"jsonrpc":"2.0","method":"eth_compileSerpent","params":["/* code */"],"id":1}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"topics":["0x1234"]}],"id":1}
+{"jsonrpc":"2.0","method":"eth_newBlockFilter","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_newPendingTransactionFilter","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_uninstallFilter","params":["0xb"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getFilterChanges","params":["0x16"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getFilterLogs","params":["0x16"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"topics":["0x1234"]}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getWork","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_submitWork","params":["0x1234","0x5678","0x9abc"],"id":1}
+{"jsonrpc":"2.0","method":"eth_submitHashrate","params":["0x1234","0x5678"],"id":1}
+{"jsonrpc":"2.0","method":"db_putString","params":["test","key","val"],"id":1}
+{"jsonrpc":"2.0","method":"db_getString","params":["test","key"],"id":1}
+{"jsonrpc":"2.0","method":"db_putHex","params":["test","key","0x1234"],"id":1}
+{"jsonrpc":"2.0","method":"db_getHex","params":["test","key"],"id":1}
+{"jsonrpc":"2.0","method":"shh_post","params":[{"topics":["0x1234"],"payload":"0x1234"}],"id":1}
+{"jsonrpc":"2.0","method":"shh_version","params":[],"id":1}
+{"jsonrpc":"2.0","method":"shh_newIdentity","params":[],"id":1}
+{"jsonrpc":"2.0","method":"shh_hasIdentity","params":["0x0000000000000000000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"shh_newGroup","params":[],"id":1}
+{"jsonrpc":"2.0","method":"shh_addToGroup","params":["0x0000000000000000000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"shh_newFilter","params":[{"topics":["0x1234"]}],"id":1}
+{"jsonrpc":"2.0","method":"shh_uninstallFilter","params":["0x7"],"id":1}
+{"jsonrpc":"2.0","method":"shh_getFilterChanges","params":["0x7"],"id":1}
+{"jsonrpc":"2.0","method":"shh_getMessages","params":["0x7"],"id":1}
+{"jsonrpc":"2.0","method":"invalid_method","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0xinvalid","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","invalid"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":[],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","latest",1],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":[123,"latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000",123],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","latest"],"id":"invalid"}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","latest"],"id":null}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","latest"],"id":-1}
+{"jsonrpc":"2.0","method":"eth_sendRawTransaction","params":[123],"id":1}
+{"jsonrpc":"2.0","method":"eth_sendRawTransaction","params":["0x"],"id":1}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"from":"0xinvalid","to":"0xinvalid"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockByHash","params":[true,false],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["pending",{"includeTransactions":true}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionReceipt","params":["0x0000000000000000000000000000000000000000000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":true,"toBlock":"latest"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"address":12345}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"topics":[null]}],"id":1}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"0x0","toBlock":"0x1","address":[]}],"id":1}
+{"jsonrpc":"2.0","method":"eth_uninstallFilter","params":[1234],"id":1}
+{"jsonrpc":"2.0","method":"eth_submitWork","params":["0x",123,"0x"],"id":1}
+{"jsonrpc":"2.0","method":"eth_submitHashrate","params":["0x1234",123],"id":1}
+{"jsonrpc":"2.0","method":"eth_compileSolidity","params":[""],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","latest"],"id":null}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","latest"],"id":-1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","latest"],"id":"NaN"}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"0x0","toBlock":"0x1","topics":[["0x1234"],"0xinvalid"]}],"id":14}
+{"jsonrpc":"2.0","method":"eth_uninstallFilter","params":[9999999999999999999999999999999999999999],"id":15}
+{"jsonrpc":"2.0","method":"eth_submitWork","params":[123,true,{"key":"value"}],"id":16}
+{"jsonrpc":"2.0","method":"eth_submitHashrate","params":["0x123",-987654321],"id":17}
+{"jsonrpc":"2.0","method":"eth_compileSolidity","params":[12345],"id":18}
+{"jsonrpc":"2.0","method":"invalid_method","params":{"key":"value"},"id":19}
+{"jsonrpc":"2.0","method":"eth_getCode","params":["0x0000000000000000000000000000000000000000",false],"id":20}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockHashAndIndex","params":[123,"0x0"],"id":21}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockNumberAndIndex","params":["latest","0xffffffff"],"id":22}
+{"jsonrpc":"2.0","method":"eth_protocolVersion","params":["unexpected_param"],"id":23}
+{"jsonrpc":"2.0","method":"eth_mining","params":[{"includeTransactions":true}],"id":24}
+{"jsonrpc":"2.0","method":"eth_hashrate","params":["0x123"],"id":25}
+{"jsonrpc":"2.0","method":"eth_coinbase","params":["extra_param"],"id":26}
+{"jsonrpc":"2.0","method":"eth_syncing","params":{"filter":"latest"},"id":27}
+{"jsonrpc":"2.0","method":"eth_accounts","params":[[],"0x123"],"id":28}
+{"jsonrpc":"2.0","method":"eth_getCompilers","params":[-1],"id":29}
+{"jsonrpc":"2.0","method":"eth_compileLLL","params":[null],"id":30}
+{"jsonrpc":"2.0","method":"eth_compileSerpent","params":[true],"id":31}
+{"jsonrpc":"2.0","method":"db_putString","params":["",123,"value"],"id":32}
+{"jsonrpc":"2.0","method":"db_getHex","params":[null,"key"],"id":33}
+{"jsonrpc":"2.0","method":"shh_post","params":[{"from":123,"payload":"0x"}],"id":34}
+{"jsonrpc":"2.0","method":"shh_newIdentity","params":["unexpected_param"],"id":35}
+{"jsonrpc":"2.0","method":"shh_hasIdentity","params":[{"address":"0x"}],"id":36}
+{"jsonrpc":"2.0","method":"shh_newFilter","params":[{"topics":["0x1234"],"to":true}],"id":37}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getStorageAt","params":["0x295a70b2de5e3953354a6a8344e616ed314d7251","0x0","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionCount","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockTransactionCountByHash","params":["0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getUncleCountByBlockHash","params":["0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getCode","params":["0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_sign","params":["0x9b2055d370f73ec7d8a03e965129118dc8f5bf83","0xdeadbeaf"],"id":1}
+{"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from":"0xb60e8dd61c5d32be8058bb8eb970870f07233155","to":"0xd46e8dd67c5d32be8058bb8eb970870f07244567","gas":"0x76c0","gasPrice":"0x9184e72a000","value":"0x9184e72a","data":"0x1234"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_sendRawTransaction","params":["0xd46e8dd67c5d32be8d46e8dd67c5d32be8058bb8eb970870f072445675058bb8eb970870f072445675"],"id":1}
+{"jsonrpc":"2.0","method":"eth_call","params":[{"from":"0xb60e8dd61c5d32be8058bb8eb970870f07233155","to":"0xd46e8dd67c5d32be8058bb8eb970870f07244567","gas":"0x76c0","gasPrice":"0x9184e72a000","value":"0x9184e72a","data":"0x1234"},"latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"from":"0xb60e8dd61c5d32be8058bb8eb970870f07233155","to":"0xd46e8dd67c5d32be8058bb8eb970870f07244567","gas":"0x76c0","gasPrice":"0x9184e72a000","value":"0x9184e72a","data":"0x1234"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockByHash","params":["0xe670ec64341771606e55d6b4ca35a1a6b75ee3d5145a99d05921026d1527331",true],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionByHash","params":["0x88df016429689c079f3b2f6ad39fa052532c56795b733da78a91ebe6a713944b"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockHashAndIndex","params":["0xe670ec64341771606e55d6b4ca35a1a6b75ee3d5145a99d05921026d1527331","0x0"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getTransactionReceipt","params":["0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockHashAndIndex","params":["0xc6ef2fc5426d6ad6fd9e2a26abeab0aa2411b7ab17f30a99d3cb96aed1d1055b","0x0"],"id":1}
+{"jsonrpc":"2.0","method":"eth_compileSolidity","params":["contract test { function multiply(uint a) returns(uint d) { return a * 7; } }"],"id":1}
+{"jsonrpc":"2.0","method":"eth_compileLLL","params":["(returnlll (suicide (caller)))"],"id":1}
+{"jsonrpc":"2.0","method":"eth_compileSerpent","params":["/* some serpent code */"],"id":1}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"0x1","toBlock":"0x2","address":"0x8888f1f195afa192cfee860698584c030f4c9db1","topics":["0x1234"]}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x1","toBlock":"0x2","address":"0x8888f1f195afa192cfee860698584c030f4c9db1","topics":["0x1234"]}],"id":1}
+{"jsonrpc":"2.0","method":"eth_submitWork","params":["0x0000000000000001","0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef","0xD1FE5700000000000000000000000000D1FE5700000000000000000000000000"],"id":1}
+{"jsonrpc":"2.0","method":"eth_submitHashrate","params":["0x0000000000000000000000000000000000000000000000000000000000500000","0x59daa26581d0acd1fce254fb7e85952f4c09d0915afd33d3886cd914bc7d283c"],"id":1}
+{"jsonrpc":"2.0","method":"db_putString","params":["testDB","myKey","myString"],"id":1}
+{"jsonrpc":"2.0","method":"db_getString","params":["testDB","myKey"],"id":1}
+{"jsonrpc":"2.0","method":"db_putHex","params":["testDB","myKey","0x68656c6c6f20776f726c64"],"id":1}
+{"jsonrpc":"2.0","method":"db_getHex","params":["testDB","myKey"],"id":1}
+{"jsonrpc":"2.0","method":"shh_post","params":[{"from":"0x04f96a5e25610293e42a73908e93ccc8c4d4dc0edcfa9fa872f50cb214e08ebf61a03e245533f97284d442460f2998cd41858798ddfd4d661997d3940272b717b1","to":"0x3e245533f97284d442460f2998cd41858798ddf04f96a5e25610293e42a73908e93ccc8c4d4dc0edcfa9fa872f50cb214e08ebf61a0","topics":["0x1234"],"payload":"0x7b2274797065223a226d6","priority":"0x64","ttl":"0x64"}],"id":1}
+{"jsonrpc":"2.0","method":"shh_hasIdentity","params":["0x04f96a5e25610293e42a73908e93ccc8c4d4dc0edcfa9fa872f50cb214e08ebf61a03e245533f97284d442460f2998cd41858798ddfd4d661997d3940272b717b1"],"id":1}
+{"jsonrpc":"2.0","method":"shh_addToGroup","params":["0x04f96a5e25610293e42a73908e93ccc8c4d4dc0edcfa9fa872f50cb214e08ebf61a03e245533f97284d442460f2998cd41858798ddfd4d661997d3940272b717b1"],"id":1}
+{"jsonrpc":"2.0","method":"shh_newFilter","params":[{"topics":["0x1234"],"to":"0x04f96a5e25610293e42a73908e93ccc8c4d4dc0edcfa9fa872f50cb214e08ebf61a03e245533f97284d442460f2998cd41858798ddfd4d661997d3940272b717b1"}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0xinvalid_address","latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","invalid_block"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","latest","extra_param"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":[12345,"latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1",12345],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","latest"],"id":"invalid_id"}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x407d73d8a49eeb85d32cf465507dd71d507100c1","latest"],"id":999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"latest","address":"0x0000000000000000000000000000000000000000","topics":[]}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"earliest","toBlock":"pending","address":["0x0000000000000000000000000000000000000000"],"topics":[null]}],"id":2}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"0xffffffff","address":[],"topics":[["0x1234"],["0x5678"],["0x9abc"],["0xdef0"]]}],"id":3}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",true],"id":4}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["earliest",true],"id":5}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["pending",true],"id":6}
+{"jsonrpc":"2.0","method":"eth_getBlockByHash","params":["0x0000000000000000000000000000000000000000000000000000000000000000",true],"id":7}
+{"jsonrpc":"2.0","method":"eth_getBlockByHash","params":["0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",true],"id":8}
+{"jsonrpc":"2.0","method":"eth_getTransactionReceipt","params":["0x0000000000000000000000000000000000000000000000000000000000000000"],"id":9}
+{"jsonrpc":"2.0","method":"eth_getTransactionReceipt","params":["0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"],"id":10}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockHashAndIndex","params":["0x0000000000000000000000000000000000000000000000000000000000000000","0xffffffff"],"id":11}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockNumberAndIndex","params":["latest","0xffffffff"],"id":12}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockNumberAndIndex","params":["earliest","0xffffffff"],"id":13}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockNumberAndIndex","params":["pending","0xffffffff"],"id":14}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockHashAndIndex","params":["0x0000000000000000000000000000000000000000000000000000000000000000","0xffffffff"],"id":15}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockNumberAndIndex","params":["latest","0xffffffff"],"id":16}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockNumberAndIndex","params":["earliest","0xffffffff"],"id":17}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockNumberAndIndex","params":["pending","0xffffffff"],"id":18}
+{"jsonrpc":"2.0","method":"eth_getStorageAt","params":["0x0000000000000000000000000000000000000000","0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","latest"],"id":19}
+{"jsonrpc":"2.0","method":"eth_getCode","params":["0x0000000000000000000000000000000000000000","latest"],"id":20}
+{"jsonrpc":"2.0","method":"eth_getCode","params":["0xffffffffffffffffffffffffffffffffffffffff","latest"],"id":21}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","latest"],"id":22}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0xffffffffffffffffffffffffffffffffffffffff","latest"],"id":23}
+{"jsonrpc":"2.0","method":"eth_getTransactionCount","params":["0x0000000000000000000000000000000000000000","latest"],"id":24}
+{"jsonrpc":"2.0","method":"eth_getTransactionCount","params":["0xffffffffffffffffffffffffffffffffffffffff","latest"],"id":25}
+{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0x0000000000000000000000000000000000000000","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"},"latest"],"id":26}
+{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0xffffffffffffffffffffffffffffffffffffffff","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"},"latest"],"id":27}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"to":"0x0000000000000000000000000000000000000000","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"}],"id":28}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"to":"0xffffffffffffffffffffffffffffffffffffffff","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"}],"id":29}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"0x0","toBlock":"latest","address":"0x0000000000000000000000000000000000000000","topics":[]}],"id":30}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"earliest","toBlock":"pending","address":["0x0000000000000000000000000000000000000000"],"topics":[null]}],"id":31}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"0x0","toBlock":"0xffffffff","address":[],"topics":[["0x1234"],["0x5678"],["0x9abc"],["0xdef0"]]}],"id":32}
+{"jsonrpc":"2.0","method":"eth_getFilterChanges","params":["0xffffffff"],"id":33}
+{"jsonrpc":"2.0","method":"eth_getFilterLogs","params":["0xffffffff"],"id":34}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"latest","address":"0x0000000000000000000000000000000000000000","topics":[]}],"id":35}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"earliest","toBlock":"pending","address":["0x0000000000000000000000000000000000000000"],"topics":[null]}],"id":36}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"0xffffffff","address":[],"topics":[["0x1234"],["0x5678"],["0x9abc"],["0xdef0"]]}],"id":37}
+
+######################################
+
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"latest","topics":[]}],"id":1}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",true],"id":2}
+{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0x0000000000000000000000000000000000000000","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"},"latest"],"id":3}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"to":"0x0000000000000000000000000000000000000000","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"}],"id":4}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"0x0","toBlock":"latest"}],"id":5}
+{"jsonrpc":"2.0","method":"eth_getFilterChanges","params":["0x1"],"id":6}
+{"jsonrpc":"2.0","method":"eth_getStorageAt","params":["0x0000000000000000000000000000000000000000","0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","latest"],"id":7}
+{"jsonrpc":"2.0","method":"eth_getCode","params":["0x0000000000000000000000000000000000000000","latest"],"id":8}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0000000000000000000000000000000000000000","latest"],"id":9}
+{"jsonrpc":"2.0","method":"eth_getTransactionCount","params":["0x0000000000000000000000000000000000000000","latest"],"id":10}
+{"jsonrpc":"2.0","method":"eth_getTransactionReceipt","params":["0x0000000000000000000000000000000000000000000000000000000000000000"],"id":11}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockHashAndIndex","params":["0x0000000000000000000000000000000000000000000000000000000000000000","0xffffffff"],"id":12}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockNumberAndIndex","params":["latest","0xffffffff"],"id":13}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockHashAndIndex","params":["0x0000000000000000000000000000000000000000000000000000000000000000","0xffffffff"],"id":14}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockNumberAndIndex","params":["latest","0xffffffff"],"id":15}
+{"jsonrpc":"2.0","method":"debug_traceBlockByNumber","params":["latest",{}],"id":16}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"earliest","toBlock":"pending","address":["0x0000000000000000000000000000000000000000"],"topics":[null]}],"id":17}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"0xffffffff","address":[],"topics":[["0x1234"],["0x5678"],["0x9abc"],["0xdef0"]]}],"id":18}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["earliest",true],"id":19}
+{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["pending",true],"id":20}
+{"jsonrpc":"2.0","method":"eth_getBlockByHash","params":["0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",true],"id":21}
+{"jsonrpc":"2.0","method":"eth_getTransactionReceipt","params":["0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"],"id":22}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockNumberAndIndex","params":["earliest","0xffffffff"],"id":23}
+{"jsonrpc":"2.0","method":"eth_getTransactionByBlockNumberAndIndex","params":["pending","0xffffffff"],"id":24}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockNumberAndIndex","params":["earliest","0xffffffff"],"id":25}
+{"jsonrpc":"2.0","method":"eth_getUncleByBlockNumberAndIndex","params":["pending","0xffffffff"],"id":26}
+{"jsonrpc":"2.0","method":"eth_getCode","params":["0xffffffffffffffffffffffffffffffffffffffff","latest"],"id":27}
+{"jsonrpc":"2.0","method":"eth_getBalance","params":["0xffffffffffffffffffffffffffffffffffffffff","latest"],"id":28}
+{"jsonrpc":"2.0","method":"eth_getTransactionCount","params":["0xffffffffffffffffffffffffffffffffffffffff","latest"],"id":29}
+{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0xffffffffffffffffffffffffffffffffffffffff","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"},"latest"],"id":30}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"to":"0xffffffffffffffffffffffffffffffffffffffff","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"}],"id":31}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"earliest","toBlock":"pending","address":["0x0000000000000000000000000000000000000000"],"topics":[null]}],"id":32}
+{"jsonrpc":"2.0","method":"eth_newFilter","params":[{"fromBlock":"0x0","toBlock":"0xffffffff","address":[],"topics":[["0x1234"],["0x5678"],["0x9abc"],["0xdef0"]]}],"id":33}
+{"jsonrpc":"2.0","method":"eth_getFilterChanges","params":["0xffffffff"],"id":34}
+{"jsonrpc":"2.0","method":"eth_getFilterLogs","params":["0xffffffff"],"id":35}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"latest","address":"","topics":[]}],"id":36}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"earliest","toBlock":"pending","address":["0x0000000000000000000000000000000000000000"],"topics":[null]}],"id":37}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"0xffffffff","address":[],"topics":[["0x1234"],["0x5678"],["0x9abc"],["0xdef0"]]}],"id":38}
+{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0xdAC17F958D2ee523a2206206994597C13D831ec7","data":"0x70a08231000000000000000000000000Ab5801a7D398351b8bE11C439e05C5B3259aeC9B"},"latest"],"id":1}
+{"jsonrpc":"2.0","method":"eth_estimateGas","params":[{"to":"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48","data":"0xa9059cbb0000000000000000000000004e83362442b8d1bec281594cea3050c8eb01311c0000000000000000000000000000000000000000000000000000000000000001"}],"id":2}
+{"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0x5c504ed432cb51138bcf09aa5e8a410dd4a1e204ef84bfed1be16dfba1b22060",{"tracer":"callTracer"}],"id":3}
+{"jsonrpc":"2.0","method":"eth_getProof","params":["0x742d35Cc6634C0532925a3b844Bc454e4438f44e",["0x0000000000000000000000000000000000000000000000000000000000000000"],"latest"],"id":4}
+{"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"0x0","toBlock":"latest","address":"0xdAC17F958D2ee523a2206206994597C13D831ec7","topics":["0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef"]}],"id":5}
+
+######################################
+
+{"jsonrpc":"2.0","method":"abci_info","params":{},"id":"1"}
+{"jsonrpc":"2.0","method":"abci_query","params":{"path":"","data":"0x","height":"0","prove":false},"id":"2"}
+{"jsonrpc":"2.0","method":"abci_query","params":{"path":"invalid","data":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","height":"-1","prove":"maybe"},"id":"3"}
+{"jsonrpc":"2.0","method":"block","params":{"height":"latest"},"id":"4"}
+{"jsonrpc":"2.0","method":"block","params":{"height":"9223372036854775807"},"id":"5"}  // Max int64
+{"jsonrpc":"2.0","method":"block_by_hash","params":{"hash":"0x0000000000000000000000000000000000000000000000000000000000000000"},"id":"6"}
+{"jsonrpc":"2.0","method":"block_by_hash","params":{"hash":"0xinvalid"},"id":"7"}
+{"jsonrpc":"2.0","method":"block_results","params":{"height":"latest"},"id":"8"}
+{"jsonrpc":"2.0","method":"block_results","params":{"height":"-100"},"id":"9"}
+{"jsonrpc":"2.0","method":"block_search","params":{"query":"block.height>0","page":"1","per_page":"10","order_by":"asc","match_events":true},"id":"10"}
+{"jsonrpc":"2.0","method":"block_search","params":{"query":"","page":"0","per_page":"1000000","order_by":"invalid","match_events":"maybe"},"id":"11"}
+{"jsonrpc":"2.0","method":"blockchain","params":{"minHeight":"0","maxHeight":"1000"},"id":"12"}
+{"jsonrpc":"2.0","method":"blockchain","params":{"minHeight":"-1","maxHeight":"9223372036854775807"},"id":"13"}
+{"jsonrpc":"2.0","method":"broadcast_evidence","params":{"evidence":"0xdeadbeef"},"id":"14"}
+{"jsonrpc":"2.0","method":"broadcast_evidence","params":{"evidence":"123"},"id":"15"}
+{"jsonrpc":"2.0","method":"broadcast_tx_async","params":{"tx":"0x1234"},"id":"16"}
+{"jsonrpc":"2.0","method":"broadcast_tx_async","params":{"tx":"0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"},"id":"17"}
+{"jsonrpc":"2.0","method":"broadcast_tx_commit","params":{"tx":"0x"},"id":"18"}
+{"jsonrpc":"2.0","method":"check_tx","params":{"tx":"0x1234"},"id":"19"}
+{"jsonrpc":"2.0","method":"check_tx","params":{"tx":null},"id":"20"}
+{"jsonrpc":"2.0","method":"commit","params":{"height":"latest"},"id":"21"}
+{"jsonrpc":"2.0","method":"commit","params":{"height":"-1"},"id":"22"}
+{"jsonrpc":"2.0","method":"consensus_params","params":{"height":"latest"},"id":"23"}
+{"jsonrpc":"2.0","method":"consensus_params","params":{"height":"invalid"},"id":"24"}
+{"jsonrpc":"2.0","method":"consensus_state","params":{},"id":"25"}
+{"jsonrpc":"2.0","method":"consensus_state","params":{"unexpected":true},"id":"26"}
+{"jsonrpc":"2.0","method":"dump_consensus_state","params":{},"id":"27"}
+{"jsonrpc":"2.0","method":"genesis","params":{},"id":"28"}
+{"jsonrpc":"2.0","method":"genesis_chunked","params":{"chunk":"0"},"id":"29"}
+{"jsonrpc":"2.0","method":"genesis_chunked","params":{"chunk":"-1"},"id":"30"}
+{"jsonrpc":"2.0","method":"health","params":{},"id":"31"}
+{"jsonrpc":"2.0","method":"net_info","params":{},"id":"32"}
+{"jsonrpc":"2.0","method":"num_unconfirmed_txs","params":{},"id":"33"}
+{"jsonrpc":"2.0","method":"status","params":{},"id":"34"}
+{"jsonrpc":"2.0","method":"subscribe","params":{"query":"tm.event="NewBlock""},"id":"35"}
+{"jsonrpc":"2.0","method":"subscribe","params":{"query":""},"id":"36"}
+{"jsonrpc":"2.0","method":"tx","params":{"hash":"0x0000000000000000000000000000000000000000000000000000000000000000","prove":true},"id":"37"}
+{"jsonrpc":"2.0","method":"tx","params":{"hash":"invalid","prove":"maybe"},"id":"38"}
+{"jsonrpc":"2.0","method":"tx_search","params":{"query":"tx.height>0","prove":true,"page":"1","per_page":"10","order_by":"asc","match_events":true},"id":"39"}
+{"jsonrpc":"2.0","method":"tx_search","params":{"query":"","prove":false,"page":"0","per_page":"1000000","order_by":"invalid","match_events":null},"id":"40"}
+{"jsonrpc":"2.0","method":"unconfirmed_txs","params":{"limit":"100"},"id":"41"}
+{"jsonrpc":"2.0","method":"unconfirmed_txs","params":{"limit":"9223372036854775807"},"id":"42"} 
+{"jsonrpc":"2.0","method":"unsubscribe","params":{"query":"tm.event="NewBlock""},"id":"43"}
+{"jsonrpc":"2.0","method":"unsubscribe","params":{"query":"*"},"id":"44"}
+{"jsonrpc":"2.0","method":"unsubscribe_all","params":{},"id":"45"}
+{"jsonrpc":"2.0","method":"validators","params":{"height":"latest","page":"1","per_page":"100"},"id":"46"}
+{"jsonrpc":"2.0","method":"validators","params":{"height":"-1","page":"0","per_page":"9223372036854775807"},"id":"47"} 
+
+{"jsonrpc": "2.0", "method": "admin_nodeInfo", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "admin_peers", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "admin_addPeer", "params": ["enode://node_id@ip:port"], "id": 1}
+{"jsonrpc": "2.0", "method": "web3_clientVersion", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "web3_sha3", "params": ["0x68656c6c6f20776f726c64"], "id": 1}
+{"jsonrpc": "2.0", "method": "net_listening", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "net_peerCount", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "net_version", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_chainID", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_protocolVersion", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_syncing", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_gasPrice", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_maxPriorityFeePerGas", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_feeHistory", "params": [1, "latest", [25, 50, 75]], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getBlockByHash", "params": ["0x1234abcd", True], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getBlockByNumber", "params": ["latest", True], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getBlockTransactionCountByHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getBlockTransactionCountByNumber", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getUncleByBlockHashAndIndex", "params": ["0x1234abcd", "0x0"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getUncleByBlockNumberAndIndex", "params": ["latest", "0x0"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getUncleCountByBlockHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getUncleCountByBlockNumber", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getRawTransactionByHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getTransactionByBlockHashAndIndex", "params": ["0x1234abcd", "0x0"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_retRawTransactionByBlockHashAndIndex", "params": ["0x1234abcd", "0x0"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getTransactionByBlockNumberAndIndex", "params": ["latest", "0x0"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_retRawTransactionByBlockNumberAndIndex", "params": ["latest", "0x0"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getTransactionReceipt", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getBlockReceipts", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_estimateGas", "params": [{"to": "0x1234567890abcdef1234567890abcdef12345678", "value": "0x0"}], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getBalance", "params": ["0x1234567890abcdef1234567890abcdef12345678", "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getCode", "params": ["0x1234567890abcdef1234567890abcdef12345678", "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": ["0x1234567890abcdef1234567890abcdef12345678", "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getStorageAt", "params": ["0x1234567890abcdef1234567890abcdef12345678", "0x0", "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_call", "params": [{"to": "0x1234567890abcdef1234567890abcdef12345678"}, "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_callMany", "params": [[{"to": "0x1234567890abcdef1234567890abcdef12345678", "data": "0x"}], "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_callBundle", "params": [["0x1234", "0x5678"]], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_createAccessList", "params": [{"to": "0x1234567890abcdef1234567890abcdef12345678"}, "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_newFilter", "params": [{"fromBlock": "earliest", "toBlock": "latest", "topics": []}], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_newBlockFilter", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_newPendingTransactionFilter", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getFilterLogs", "params": ["0x1"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getFilterChanges", "params": ["0x1"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_uninstallFilter", "params": ["0x1"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getLogs", "params": [{"fromBlock": "earliest", "toBlock": "latest", "topics": []}], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": ["0xf86c"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_mining", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_coinbase", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_hashrate", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_submitHashrate", "params": ["0x1234", "0x5678"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_getWork", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_submitWork", "params": ["0x1234", "0x5678", "0x9abc"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_subscribe", "params": ["newHeads"], "id": 1}
+{"jsonrpc": "2.0", "method": "eth_unsubscribe", "params": ["0x1"], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_newPayloadV1", "params": [{"blockHash": "0x1234abcd"}], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_newPayloadV2", "params": [{"blockHash": "0x1234abcd"}], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_newPayloadV3", "params": [{"blockHash": "0x1234abcd"}], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_forkchoiceUpdatedV1", "params": [{"headBlockHash": "0x1234abcd"}], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_forkchoiceUpdatedV2", "params": [{"headBlockHash": "0x1234abcd"}], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_forkchoiceUpdatedV3", "params": [{"headBlockHash": "0x1234abcd"}], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_getPayloadV1", "params": ["0x1"], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_getPayloadV2", "params": ["0x1"], "id": 1}
+{"jsonrpc": "2.0", "method": "engine_getPayloadV3", "params": ["0x1"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_getRawReceipts", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_accountRange", "params": ["latest", "0x0", 10], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_accountAt", "params": ["latest", "0x1234567890abcdef1234567890abcdef12345678"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_getModifiedAccountsByNumber", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_getModifiedAccountsByHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_storageRangeAt", "params": ["latest", "0x1234567890abcdef1234567890abcdef12345678", "0x0", 10], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_traceBlockByHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_traceBlockByNumber", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_traceTransaction", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_traceCall", "params": [{"to": "0x1234567890abcdef1234567890abcdef12345678"}, "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "debug_traceCallMany", "params": [[{"to": "0x1234567890abcdef1234567890abcdef12345678"}], "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "trace_call", "params": [{"to": "0x1234567890abcdef1234567890abcdef12345678"}, "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "trace_callMany", "params": [[{"to": "0x1234567890abcdef1234567890abcdef12345678"}], "latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "trace_replayBlockTransactions", "params": ["latest", ["stateDiff"]], "id": 1}
+{"jsonrpc": "2.0", "method": "trace_replayTransaction", "params": ["0x1234abcd", ["stateDiff"]], "id": 1}
+{"jsonrpc": "2.0", "method": "trace_block", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "trace_filter", "params": [{"fromBlock": "earliest", "toBlock": "latest"}], "id": 1}
+{"jsonrpc": "2.0", "method": "trace_get", "params": ["0x1234abcd", "0x0"], "id": 1}
+{"jsonrpc": "2.0", "method": "trace_transaction", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "txpool_content", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "txpool_contentFrom", "params": ["0x1234567890abcdef1234567890abcdef12345678"], "id": 1}
+{"jsonrpc": "2.0", "method": "txpool_status", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "erigon_getHeaderByHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "erigon_getBlockReceiptsByBlockHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "erigon_getHeaderByNumber", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "erigon_getLogsByHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "erigon_forks", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "erigon_getBlockByTimestamp", "params": ["0x5fc6e978"], "id": 1}
+{"jsonrpc": "2.0", "method": "erigon_BlockNumber", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "erigon_getLatestLogs", "params": [], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getSnapshot", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getAuthor", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getSnapshotAtHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getSigners", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getSignersAtHash", "params": ["0x1234abcd"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getCurrentProposer", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getCurrentValidators", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getSnapshotProposerSequence", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getRootHash", "params": ["latest"], "id": 1}
+{"jsonrpc": "2.0", "method": "bor_getVoteOnHash", "params": ["latest"], "id": 1}
