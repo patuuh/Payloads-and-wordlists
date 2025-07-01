@@ -1,3 +1,4 @@
+{"jsonrpc": "2.0", "method": "rpc_methods", "params": [{"fromBlock": "0x0", "toBlock": "latest", "topics": []}], "id": 1}
 {"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0x0000000000000000000000000000000000000000","data":"0x"},"latest"],"id":1}
 {"jsonrpc":"2.0","method":"eth_getBalance","params":["0x","latest"],"id":"2"}
 {"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from":123,"to":"0x0000000000000000000000000000000000000000","value":"0x0"}],"id":3}
@@ -412,3 +413,56 @@
 {"jsonrpc": "2.0", "method": "bor_getSnapshotProposerSequence", "params": ["latest"], "id": 1}
 {"jsonrpc": "2.0", "method": "bor_getRootHash", "params": ["latest"], "id": 1}
 {"jsonrpc": "2.0", "method": "bor_getVoteOnHash", "params": ["latest"], "id": 1}
+
+{"jsonrpc": "2.0", "method": "account_nextIndex", "params": ["0x123456789abcdef"], "id": 1}
+{"jsonrpc": "2.0", "method": "author_hasKey", "params": ["0x123456", "ed25519"], "id": 2}
+{"jsonrpc": "2.0", "method": "author_hasSessionKeys", "params": ["0x123abc"], "id": 3}
+{"jsonrpc": "2.0", "method": "author_insertKey", "params": ["ed25519", "some_seed", "0x123abc"], "id": 4}
+{"jsonrpc": "2.0", "method": "author_pendingExtrinsics", "params": [], "id": 5}
+{"jsonrpc": "2.0", "method": "author_removeExtrinsic", "params": ["0xabc123"], "id": 6}
+{"jsonrpc": "2.0", "method": "author_rotateKeys", "params": [], "id": 7}
+{"jsonrpc": "2.0", "method": "author_submitAndWatchExtrinsic", "params": ["0xdeadbeef"], "id": 8}
+{"jsonrpc": "2.0", "method": "author_submitExtrinsic", "params": ["0xbeefdead"], "id": 9}
+{"jsonrpc": "2.0", "method": "author_unwatchExtrinsic", "params": ["0x12345"], "id": 10}
+{"jsonrpc": "2.0", "method": "babe_epochAuthorship", "params": [], "id": 11}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_body", "params": ["0xabcdef"], "id": 12}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_call", "params": ["0x1234", "method_name", "0xdeadbeef"], "id": 13}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_continue", "params": ["0x5678"], "id": 14}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_follow", "params": [], "id": 15}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_header", "params": ["0x123456"], "id": 16}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_stopOperation", "params": ["0x7890"], "id": 17}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_storage", "params": ["0xabcdef"], "id": 18}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_unfollow", "params": ["0x3456"], "id": 19}
+{"jsonrpc": "2.0", "method": "chainHead_unstable_unpin", "params": ["0x9876"], "id": 20}
+{"jsonrpc": "2.0", "method": "chainSpec_v1_chainName", "params": [], "id": 21}
+{"jsonrpc": "2.0", "method": "chainSpec_v1_genesisHash", "params": [], "id": 22}
+{"jsonrpc": "2.0", "method": "chainSpec_v1_properties", "params": [], "id": 23}
+{"jsonrpc": "2.0", "method": "chain_getBlock", "params": ["0x123456"], "id": 24}
+{"jsonrpc": "2.0", "method": "chain_getBlockHash", "params": [12345], "id": 25}
+{"jsonrpc": "2.0", "method": "chain_getFinalisedHead", "params": [], "id": 26}
+{"jsonrpc": "2.0", "method": "chain_getFinalizedHead", "params": [], "id": 27}
+{"jsonrpc": "2.0", "method": "chain_getHead", "params": [], "id": 28}
+{"jsonrpc": "2.0", "method": "chain_getHeader", "params": ["0x7890"], "id": 29}
+{"jsonrpc": "2.0", "method": "chain_getRuntimeVersion", "params": [], "id": 30}
+{"jsonrpc": "2.0", "method": "chain_subscribeAllHeads", "params": [], "id": 31}
+{"jsonrpc": "2.0", "method": "chain_subscribeFinalisedHeads", "params": [], "id": 32}
+{"jsonrpc": "2.0", "method": "chain_subscribeFinalizedHeads", "params": [], "id": 33}
+{"jsonrpc": "2.0", "method": "chain_subscribeNewHead", "params": [], "id": 34}
+{"jsonrpc": "2.0", "method": "chain_subscribeNewHeads", "params": [], "id": 35}
+{"jsonrpc": "2.0", "method": "chain_subscribeRuntimeVersion", "params": [], "id": 36}
+{"jsonrpc": "2.0", "method": "chain_unsubscribeAllHeads", "params": ["0x123456"], "id": 37}
+{"jsonrpc": "2.0", "method": "chain_unsubscribeFinalisedHeads", "params": ["0x654321"], "id": 38}
+{"jsonrpc": "2.0", "method": "chain_unsubscribeFinalizedHeads", "params": ["0xabcdef"], "id": 39}
+{"jsonrpc": "2.0", "method": "chain_unsubscribeNewHead", "params": ["0x789abc"], "id": 40}
+{"jsonrpc": "2.0", "method": "chain_unsubscribeNewHeads", "params": ["0xdef123"], "id": 41}
+{"jsonrpc": "2.0", "method": "chain_unsubscribeRuntimeVersion", "params": ["0x56789a"], "id": 42}
+{"jsonrpc": "2.0", "method": "state_getKeysPaged", "params": ["0x0000000000000000000000000000000000000000000000000000000000000000", 100000, null], "id": 1}
+{"jsonrpc": "2.0", "method": "state_getStorage", "params": ["0x0000000000000000000000000000000000000000000000000000000000000000"], "id": 2}
+{"jsonrpc": "2.0", "method": "state_getStorageAt", "params": ["0x0000000000000000000000000000000000000000000000000000000000000000", "latest"], "id": 3}
+{"jsonrpc": "2.0", "method": "chain_subscribeAllHeads", "params": [], "id": 4}
+{"jsonrpc": "2.0", "method": "chain_subscribeNewHeads", "params": [], "id": 5}
+{"jsonrpc": "2.0", "method": "state_subscribeStorage", "params": [["0x0000000000000000000000000000000000000000000000000000000000000000"]], "id": 6}
+{"jsonrpc": "2.0", "method": "mmr_generateProof", "params": ["0x0000000000000000000000000000000000000000000000000000000000000000"], "id": 7}
+{"jsonrpc": "2.0", "method": "grandpa_proveFinality", "params": ["latest"], "id": 8}
+{"jsonrpc": "2.0", "method": "system_addReservedPeer", "params": ["/ip4/127.0.0.1/tcp/30333/p2p/Qm123456789abcdef"], "id": 9}
+{"jsonrpc": "2.0", "method": "system_resetLogFilter", "params": [], "id": 10}
