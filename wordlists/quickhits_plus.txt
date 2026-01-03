@@ -1,3 +1,6 @@
+actuator/heapdump%23
+actuator/health
+actuator
 home/000~ROOT~000
 home/000~ROOT~000/etc/passwd
 api/v1/serverInfo
